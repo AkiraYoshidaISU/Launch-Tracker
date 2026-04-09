@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Launch Monitoring Station</title>
+  <meta name="description" content="A live dashboard showing upcoming rocket launches worldwide" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="bg-orbit orbit-1" aria-hidden="true"></div>
+  <div class="bg-orbit orbit-2" aria-hidden="true"></div>
+
+  <header class="hero">
+    <p class="eyebrow">Global Launch Feed</p>
+    <h1>Launch Monitoring Station</h1>
+    <p class="subtitle">Track upcoming rocket launches worldwide in real time</p>
+  </header>
+
+  <main class="container">
+    <section class="next-launch" aria-labelledby="next-launch-heading">
+      <h2 id="next-launch-heading">Next Launch Countdown</h2>
+      <p id="nextMission" class="next-mission">Loading...</p>
+      <p id="countdown" class="countdown" aria-live="polite">-- : -- : -- : --</p>
+      <div class="meta-row">
+        <span id="nextRocket">Rocket: --</span>
+        <span id="nextSite">Site: --</span>
+        <span id="nextDate">Date: --</span>
+      </div>
+    </section>
+
+    <section class="launch-list-wrap" aria-labelledby="launch-list-heading">
+      <div class="list-header">
+        <h2 id="launch-list-heading">Upcoming Launches</h2>
+        <span id="lastUpdated" class="last-updated">Last updated: --</span>
+      </div>
+      <p id="status" class="status">Fetching launch data...</p>
+      <div id="launchList" class="launch-list"></div>
+    </section>
+  </main>
+
+  <template id="launchCardTemplate">
+    <article class="launch-card">
+      <h3 class="mission-name"></h3>
+      <div class="card-grid">
+        <p><span>Rocket</span><strong class="rocket-name"></strong></p>
+        <p><span>Launch Site</span><strong class="site-name"></strong></p>
+        <p><span>Date / Time</span><strong class="launch-time"></strong></p>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js" type="module"></script>
+</body>
+</html>
