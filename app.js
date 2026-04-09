@@ -1,5 +1,9 @@
 const AUTO_REFRESH_MS = 5 * 60 * 1000;
 const DATA_URL = "./data/upcoming-launches.json";
+const API_CANDIDATES = [
+  "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=20&hide_recent_previous=true",
+  "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=20&hide_recent_previous=true"
+];
 
 const els = {
   nextMission: document.getElementById("nextMission"),
@@ -103,6 +107,44 @@ function pickNextLaunch(items) {
   return items.find((item) => new Date(item.net).getTime() > now) || null;
 }
 
+function applyLaunchResults(results, generatedAt) {
+  launches = results
+    .filter((x) => x.net)
+    .sort((a, b) => new Date(a.net).getTime() - new Date(b.net).getTime());
+  nextLaunch = pickNextLaunch(launches);
+
+  renderLaunches(launches);
+  renderNextLaunch();
+  updateCountdown();
+
+  const stamp = generatedAt ? new Date(generatedAt).toLocaleString() : new Date().toLocaleString();
+  els.status.textContent = "Live data loaded";
+  els.lastUpdated.textContent = `Last updated: ${stamp}`;
+}
+
+async function fetchFromApiCandidates() {
+  let lastError = null;
+  for (const url of API_CANDIDATES) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) {
+        throw new Error(`HTTP ${res.status}`);
+      }
+      const data = await res.json();
+      const results = Array.isArray(data.results) ? data.results : [];
+      if (!results.length) {
+        throw new Error("No launch results in API payload");
+      }
+      applyLaunchResults(results, new Date().toISOString());
+      els.status.textContent = "Live data loaded from API fallback";
+      return;
+    } catch (err) {
+      lastError = err;
+    }
+  }
+  throw lastError || new Error("All API fallbacks failed");
+}
+
 async function fetchUpcomingLaunches() {
   try {
     const res = await fetch(DATA_URL, { cache: "no-store" });
@@ -113,29 +155,23 @@ async function fetchUpcomingLaunches() {
     const data = await res.json();
     const results = Array.isArray(data.results) ? data.results : [];
     if (!results.length) {
-      throw new Error("No launch results in payload");
+      throw new Error("Launch cache is empty");
     }
 
-    launches = results
-      .filter((x) => x.net)
-      .sort((a, b) => new Date(a.net).getTime() - new Date(b.net).getTime());
-    nextLaunch = pickNextLaunch(launches);
-
-    renderLaunches(launches);
-    renderNextLaunch();
-    updateCountdown();
-
-    const generatedAt = data.generated_at ? new Date(data.generated_at).toLocaleString() : new Date().toLocaleString();
-    els.status.textContent = "Live data loaded";
-    els.lastUpdated.textContent = `Last updated: ${generatedAt}`;
+    applyLaunchResults(results, data.generated_at);
   } catch (err) {
-    console.error(err);
-    launches = [];
-    nextLaunch = null;
-    renderLaunches(launches);
-    renderNextLaunch();
-    els.status.textContent = "Launch data file unavailable. Wait for GitHub Actions to generate data/upcoming-launches.json.";
-    els.lastUpdated.textContent = `Last checked: ${new Date().toLocaleString()}`;
+    console.warn("Local cache unavailable or empty. Trying API fallback.", err);
+    try {
+      await fetchFromApiCandidates();
+    } catch (fallbackErr) {
+      console.error(fallbackErr);
+      launches = [];
+      nextLaunch = null;
+      renderLaunches(launches);
+      renderNextLaunch();
+      els.status.textContent = "No launch data available. Run the 'Update Launch Data' GitHub Action.";
+      els.lastUpdated.textContent = `Last checked: ${new Date().toLocaleString()}`;
+    }
   }
 }
 
