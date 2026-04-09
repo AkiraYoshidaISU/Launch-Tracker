@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-09T17:47:50.956Z",
+  "generated_at": "2026-04-09T20:36:04.377Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-04-09T20:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
-        }
-      }
-    },
     {
       "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
       "name": "Falcon 9 Block 5 | Starlink Group 17-21",
@@ -378,6 +357,27 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-04-30T00:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
