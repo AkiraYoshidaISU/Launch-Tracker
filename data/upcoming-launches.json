@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T14:16:06.289Z",
+  "generated_at": "2026-04-09T17:47:50.956Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -21,27 +21,6 @@
         "location": {
           "name": "Andøya Spaceport",
           "country_code": "NOR"
-        }
-      }
-    },
-    {
-      "id": "33b673eb-b25b-462a-a092-040a6875654c",
-      "name": "Kinetica 1 | Unknown Payload",
-      "net": "2026-04-10T04:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kinetica 1",
-          "name": "Kinetica 1"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 130",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     },
@@ -105,6 +84,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "33b673eb-b25b-462a-a092-040a6875654c",
+      "name": "Kinetica 1 | Unknown Payload",
+      "net": "2026-04-14T04:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kinetica 1",
+          "name": "Kinetica 1"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 130",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -177,6 +177,27 @@
       "net": "2026-04-18T14:00:00Z",
       "mission": {
         "name": "Starlink Group 17-22"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "20418dc6-1870-4018-adda-1e6156717f02",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-14",
+      "net": "2026-04-22T02:00:00Z",
+      "mission": {
+        "name": "Starlink Group 17-14"
       },
       "rocket": {
         "configuration": {
@@ -608,27 +629,6 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
-      "name": "Atlas V 551 | Amazon Leo (LA-07)",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LA-07)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Atlas V 551",
-          "name": "Atlas V 551"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
