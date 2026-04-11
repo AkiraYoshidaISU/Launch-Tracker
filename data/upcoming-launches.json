@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T14:06:12.466Z",
+  "generated_at": "2026-04-11T15:54:08.769Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -147,6 +147,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-04-22T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
-        }
-      }
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
-      "net": "2026-06-17T01:40:00Z",
-      "mission": {
-        "name": "Progress MS-35 (96P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1a",
-          "name": "Soyuz 2.1a"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
         }
       }
     }
