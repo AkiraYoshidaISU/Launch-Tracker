@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-04-11T10:02:12.256Z",
+  "generated_at": "2026-04-11T11:49:20.241Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "34fbbb9b-2a86-42cc-af02-6cfe1f4236f7",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "net": "2026-04-11T11:30:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Smart Dragon 3",
-          "name": "Smart Dragon 3"
-        }
-      },
-      "pad": {
-        "name": "South China Sea (launch location 3)",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "5ed6ab75-8c5b-4013-93e1-1deb56b14f1d",
-      "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)",
-      "net": "2026-04-11T11:41:21Z",
-      "mission": {
-        "name": "Cygnus CRS-2 NG-24 (S.S. Steven R. Nagel)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "33b673eb-b25b-462a-a092-040a6875654c",
       "name": "Kinetica 1 | Unknown Payload",
@@ -630,6 +588,48 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Rescue Mission",
+      "net": "2026-06-01T00:00:00Z",
+      "mission": {
+        "name": "Swift Rescue Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
+      "net": "2026-06-17T01:40:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a",
+          "name": "Soyuz 2.1a"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
