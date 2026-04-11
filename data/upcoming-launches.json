@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-10T23:53:42.195Z",
+  "generated_at": "2026-04-11T05:19:30.026Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "f6c9396f-5f02-49e6-a847-83e4c774e0e9",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-21",
-      "net": "2026-04-11T03:01:30Z",
-      "mission": {
-        "name": "Starlink Group 17-21"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "34fbbb9b-2a86-42cc-af02-6cfe1f4236f7",
       "name": "Smart Dragon 3 | Unknown Payload",
@@ -298,6 +277,27 @@
       }
     },
     {
+      "id": "41139aa5-3f45-440a-8131-9cb391ddc995",
+      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
+      "net": "2026-04-30T00:00:00Z",
+      "mission": {
+        "name": "Kosmos (Unknown Payload)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Angara 1.2",
+          "name": "Angara 1.2"
+        }
+      },
+      "pad": {
+        "name": "35/1",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
+        }
+      }
+    },
+    {
       "id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
       "name": "Falcon 9 Block 5 | GPS III SV10",
       "net": "2026-04-30T00:00:00Z",
@@ -357,6 +357,48 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "0c69b50a-11d4-4c68-a0f6-4498d6ee713a",
+      "name": "Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)",
+      "net": "2026-04-30T00:00:00Z",
+      "mission": {
+        "name": "Kosmos (Unknown Payload)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a Fregat-M",
+          "name": "Soyuz 2.1a/Fregat-M"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
+        }
+      }
+    },
+    {
+      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
+      "name": "Soyuz 2.1b | 16 x Rassvet-3",
+      "net": "2026-04-30T00:00:00Z",
+      "mission": {
+        "name": "16 x Rassvet-3"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
         }
       }
     },
@@ -588,48 +630,6 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
-        }
-      }
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
-      "net": "2026-06-17T01:40:00Z",
-      "mission": {
-        "name": "Progress MS-35 (96P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1a",
-          "name": "Soyuz 2.1a"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
-      "name": "Electron | LOXSAT 1",
-      "net": "2026-06-25T00:00:00Z",
-      "mission": {
-        "name": "LOXSAT 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
         }
       }
     }
