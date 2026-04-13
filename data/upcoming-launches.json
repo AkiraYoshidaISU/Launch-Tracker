@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T11:55:55.491Z",
+  "generated_at": "2026-04-13T16:21:41.687Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -67,27 +67,6 @@
       }
     },
     {
-      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "name": "New Glenn | BlueBird Block 2 #2",
-      "net": "2026-04-16T10:45:00Z",
-      "mission": {
-        "name": "BlueBird Block 2 #2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "New Glenn",
-          "name": "New Glenn"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "a89636b5-20f0-491a-88a4-0ff26880ae77",
       "name": "Long March 2D | Unknown Payload",
       "net": "2026-04-17T04:10:00Z",
@@ -105,6 +84,27 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
+      "name": "New Glenn | BlueBird Block 2 #2",
+      "net": "2026-04-17T10:45:00Z",
+      "mission": {
+        "name": "BlueBird Block 2 #2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "New Glenn",
+          "name": "New Glenn"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
