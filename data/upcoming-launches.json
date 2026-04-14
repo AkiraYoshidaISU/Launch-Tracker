@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-14T06:16:00.821Z",
+  "generated_at": "2026-04-14T10:48:25.213Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "5352577c-d94a-4e68-a0c8-b0b684621a4f",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-24",
-      "net": "2026-04-14T09:33:10Z",
-      "mission": {
-        "name": "Starlink Group 10-24"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "7cb38bf5-6e8b-4325-be4e-3d226be5eada",
       "name": "Falcon 9 Block 5 | Starlink Group 17-27",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "name": "Electron | LOXSAT 1",
+      "net": "2026-06-25T00:00:00Z",
+      "mission": {
+        "name": "LOXSAT 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     }
