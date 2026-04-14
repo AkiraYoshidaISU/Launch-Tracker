@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T19:54:54.310Z",
+  "generated_at": "2026-04-14T22:32:29.573Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
       "name": "New Glenn | BlueBird Block 2 #2",
-      "net": "2026-04-17T10:45:00Z",
+      "net": "2026-04-18T10:45:00Z",
       "mission": {
         "name": "BlueBird Block 2 #2"
       },
