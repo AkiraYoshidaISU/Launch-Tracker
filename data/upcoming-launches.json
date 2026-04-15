@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T14:57:29.759Z",
+  "generated_at": "2026-04-15T18:48:58.826Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -25,27 +25,6 @@
       }
     },
     {
-      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
-      "name": "New Glenn | BlueBird Block 2 #2",
-      "net": "2026-04-18T10:45:00Z",
-      "mission": {
-        "name": "BlueBird Block 2 #2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "New Glenn",
-          "name": "New Glenn"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-22",
       "net": "2026-04-18T14:00:00Z",
@@ -62,6 +41,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "53769468-bfd3-45c7-a52b-46a68ed7510f",
+      "name": "New Glenn | BlueBird Block 2 #2",
+      "net": "2026-04-19T10:45:00Z",
+      "mission": {
+        "name": "BlueBird Block 2 #2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "New Glenn",
+          "name": "New Glenn"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
