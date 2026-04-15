@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-14T22:32:29.573Z",
+  "generated_at": "2026-04-15T06:12:42.028Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "7cb38bf5-6e8b-4325-be4e-3d226be5eada",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-27",
-      "net": "2026-04-15T02:40:20Z",
-      "mission": {
-        "name": "Starlink Group 17-27"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "a89636b5-20f0-491a-88a4-0ff26880ae77",
       "name": "Long March 2D | Unknown Payload",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
+      "net": "2026-06-17T01:40:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a",
+          "name": "Soyuz 2.1a"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
