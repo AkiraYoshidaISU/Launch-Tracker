@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-16T22:26:10.932Z",
+  "generated_at": "2026-04-17T06:13:18.845Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a89636b5-20f0-491a-88a4-0ff26880ae77",
-      "name": "Long March 2D | Unknown Payload",
-      "net": "2026-04-17T04:10:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2D",
-          "name": "Long March 2D"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 94 (SLS-2 / 603)",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "0727a92f-0a9c-4e01-9bf4-1dc698e17e6b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-22",
@@ -130,27 +109,6 @@
       }
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "net": "2026-04-22T05:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "South Korean ADD Solid-Fuel SLV",
-          "name": "South Korean ADD Solid-Fuel SLV"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
-        }
-      }
-    },
-    {
       "id": "9281afa8-140d-425b-a560-2fa59feef814",
       "name": "Electron | Kakushin Rising (JAXA Rideshare)",
       "net": "2026-04-23T03:09:00Z",
@@ -168,6 +126,27 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-04-25T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
         }
       }
     },
@@ -340,27 +319,6 @@
       }
     },
     {
-      "id": "0c69b50a-11d4-4c68-a0f6-4498d6ee713a",
-      "name": "Soyuz 2.1a/Fregat-M | Kosmos (Unknown Payload)",
-      "net": "2026-04-30T00:00:00Z",
-      "mission": {
-        "name": "Kosmos (Unknown Payload)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1a Fregat-M",
-          "name": "Soyuz 2.1a/Fregat-M"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
-        }
-      }
-    },
-    {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
       "name": "Soyuz 2.1b | 16 x Rassvet-3",
       "net": "2026-04-30T00:00:00Z",
@@ -441,27 +399,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "name": "Vikram-I | Demo Flight",
-      "net": "2026-04-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vikram-I",
-          "name": "Vikram-I"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre First Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -630,6 +567,69 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1a | Progress MS-35 (96P)",
+      "net": "2026-06-17T01:40:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a",
+          "name": "Soyuz 2.1a"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "name": "Electron | LOXSAT 1",
+      "net": "2026-06-25T00:00:00Z",
+      "mission": {
+        "name": "LOXSAT 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+      "name": "Ariane 64 | MTG-I2",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "MTG-I2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     }
