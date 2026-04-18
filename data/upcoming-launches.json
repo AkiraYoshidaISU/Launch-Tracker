@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T16:05:03.302Z",
+  "generated_at": "2026-04-18T18:05:50.315Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -361,27 +361,6 @@
       }
     },
     {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-04-30T00:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
-        }
-      }
-    },
-    {
       "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
       "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
       "net": "2026-04-30T00:00:00Z",
@@ -504,6 +483,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-05-31T00:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
