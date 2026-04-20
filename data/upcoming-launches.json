@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:04:28.683Z",
+  "generated_at": "2026-04-20T23:05:14.116Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -84,6 +84,27 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "214b4db1-7112-4428-a999-29d2765c8306",
+      "name": "Long March 2D | Unknown Payload",
+      "net": "2026-04-24T06:30:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2D",
+          "name": "Long March 2D"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 3 (LC-3/LA-1)",
+        "location": {
+          "name": "Xichang Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-      "name": "Ariane 64 | MTG-I2",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "MTG-I2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     }
