@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-21T06:20:35.579Z",
+  "generated_at": "2026-04-21T10:51:32.896Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "2c5686ec-b0fd-4987-935d-587e3c85fa2d",
-      "name": "Falcon 9 Block 5 | GPS III SV10",
-      "net": "2026-04-21T06:53:25Z",
-      "mission": {
-        "name": "GPS III SV10"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "4e074623-426a-4ab2-8729-a85200684bef",
       "name": "HASTE | Bubbles",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
+      "name": "Ariane 64 | MTG-I2",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "MTG-I2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     }
