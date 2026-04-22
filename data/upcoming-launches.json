@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-21T22:10:56.038Z",
+  "generated_at": "2026-04-22T00:04:21.955Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "4e074623-426a-4ab2-8729-a85200684bef",
-      "name": "HASTE | Bubbles",
-      "net": "2026-04-22T00:00:00Z",
-      "mission": {
-        "name": "Bubbles"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-        "location": {
-          "name": "Wallops Flight Facility, Virginia, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "20418dc6-1870-4018-adda-1e6156717f02",
       "name": "Falcon 9 Block 5 | Starlink Group 17-14",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     }
