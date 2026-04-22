@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:55:54.486Z",
+  "generated_at": "2026-04-22T22:33:54.398Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -38,7 +38,7 @@
         }
       },
       "pad": {
-        "name": "Unknown Pad",
+        "name": "Rocket Lab Launch Complex 1A",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
