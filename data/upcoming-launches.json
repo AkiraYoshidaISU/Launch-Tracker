@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T16:54:15.139Z",
+  "generated_at": "2026-04-23T20:14:04.027Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -235,27 +235,6 @@
       }
     },
     {
-      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
-      "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "net": "2026-04-30T00:00:00Z",
-      "mission": {
-        "name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vega-C",
-          "name": "Vega-C"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 1 (ELV)",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
-    {
       "id": "4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
       "name": "Zhuque-2E | Unknown Payload",
       "net": "2026-04-30T00:00:00Z",
@@ -336,6 +315,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
+      "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
+      "net": "2026-05-19T03:52:00Z",
+      "mission": {
+        "name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vega-C",
+          "name": "Vega-C"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 1 (ELV)",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     },
