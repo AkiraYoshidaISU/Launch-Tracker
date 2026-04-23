@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-04-22T22:33:54.398Z",
+  "generated_at": "2026-04-23T06:19:50.005Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "20418dc6-1870-4018-adda-1e6156717f02",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-14",
-      "net": "2026-04-23T02:55:20Z",
-      "mission": {
-        "name": "Starlink Group 17-14"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "9281afa8-140d-425b-a560-2fa59feef814",
-      "name": "Electron | Kakushin Rising (JAXA Rideshare)",
-      "net": "2026-04-23T03:09:00Z",
-      "mission": {
-        "name": "Kakushin Rising (JAXA Rideshare)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1A",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "214b4db1-7112-4428-a999-29d2765c8306",
       "name": "Long March 2D | Unknown Payload",
@@ -630,6 +588,48 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
+      "name": "Atlas V 551 | Amazon Leo (LA-07)",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LA-07)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Atlas V 551",
+          "name": "Atlas V 551"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
