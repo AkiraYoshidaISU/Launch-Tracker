@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T23:10:10.403Z",
+  "generated_at": "2026-04-24T06:28:09.051Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -60,6 +60,27 @@
       },
       "pad": {
         "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
+      "name": "Soyuz-5 | Demo Flight",
+      "net": "2026-04-26T11:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz-5",
+          "name": "Soyuz-5"
+        }
+      },
+      "pad": {
+        "name": "45/1",
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
@@ -210,27 +231,6 @@
         "location": {
           "name": "Plesetsk Cosmodrome, Russian Federation",
           "country_code": "RUS"
-        }
-      }
-    },
-    {
-      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
-      "name": "Soyuz-5 | Demo Flight",
-      "net": "2026-04-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz-5",
-          "name": "Soyuz-5"
-        }
-      },
-      "pad": {
-        "name": "45/1",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
         }
       }
     },
