@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T14:58:42.465Z",
+  "generated_at": "2026-04-24T17:56:43.946Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -277,6 +277,27 @@
       }
     },
     {
+      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
+      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
+      "net": "2026-05-03T06:59:00Z",
+      "mission": {
+        "name": "CAS500-2 & Others"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
       "name": "Falcon 9 Block 5 | Starlink Group 17-29",
       "net": "2026-05-06T02:00:00Z",
@@ -378,27 +399,6 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "05530ccb-7184-41e7-b2e5-c090b61e0e3a",
-      "name": "Falcon 9 Block 5 | CAS500-2 & Others",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "CAS500-2 & Others"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
         }
       }
     },
