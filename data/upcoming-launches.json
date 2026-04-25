@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T14:11:09.276Z",
+  "generated_at": "2026-04-25T16:08:26.708Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -109,27 +109,6 @@
       }
     },
     {
-      "id": "7bffe283-a708-427d-ba0d-43ea741453b1",
-      "name": "Ariane 64 | Amazon Leo (LE-02)",
-      "net": "2026-04-28T08:51:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-02)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
-    {
       "id": "1e79a5e9-c02c-470f-882f-884120100fef",
       "name": "Long March 10B | Demo Flight",
       "net": "2026-04-30T00:00:00Z",
@@ -231,6 +210,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7bffe283-a708-427d-ba0d-43ea741453b1",
+      "name": "Ariane 64 | Amazon Leo (LE-02)",
+      "net": "2026-04-30T08:08:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-02)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     },
