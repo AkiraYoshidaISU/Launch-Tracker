@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-04-27T13:08:35.755Z",
+  "generated_at": "2026-04-27T17:51:54.706Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
-      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
-      "net": "2026-04-27T14:21:00Z",
-      "mission": {
-        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon Heavy",
-          "name": "Falcon Heavy"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": {
-          "name": "Kennedy Space Center, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "7e89e423-6f47-40a0-b075-c6fc1d9cf228",
       "name": "Atlas V 551 | Amazon Leo (LA-06)",
@@ -41,6 +20,27 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4cc237b2-c61a-491e-9532-466cce81f524",
+      "name": "Falcon Heavy | ViaSat-3 F3 (ViaSat-3 Asia-Pacific)",
+      "net": "2026-04-28T14:17:00Z",
+      "mission": {
+        "name": "ViaSat-3 F3 (ViaSat-3 Asia-Pacific)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon Heavy",
+          "name": "Falcon Heavy"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": {
+          "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
         }
       }
