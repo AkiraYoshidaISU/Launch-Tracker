@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-04-30T07:19:01.299Z",
+  "generated_at": "2026-04-30T12:06:03.512Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "7bffe283-a708-427d-ba0d-43ea741453b1",
-      "name": "Ariane 64 | Amazon Leo (LE-02)",
-      "net": "2026-04-30T08:08:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-02)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "74b3aa8f-dc54-43dd-b8dd-1dc62ccccfc4",
-      "name": "Soyuz-5 | Demo Flight",
-      "net": "2026-04-30T11:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz-5",
-          "name": "Soyuz-5"
-        }
-      },
-      "pad": {
-        "name": "45/1",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
-        }
-      }
-    },
     {
       "id": "b3877a27-7332-47cb-ac46-12a32143081b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-38",
@@ -194,10 +152,10 @@
     },
     {
       "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
-      "name": "Electron | StriX Launch 9",
-      "net": "2026-05-31T00:00:00Z",
+      "name": "Electron | Viva La Strix (StriX Launch 9)",
+      "net": "2026-05-22T00:00:00Z",
       "mission": {
-        "name": "StriX Launch 9"
+        "name": "Viva La Strix (StriX Launch 9)"
       },
       "rocket": {
         "configuration": {
@@ -618,6 +576,48 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
