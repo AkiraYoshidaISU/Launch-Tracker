@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-05T11:51:53.122Z",
+  "generated_at": "2026-05-05T17:07:33.664Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "dd82ccd7-9ab2-410a-ac41-306218015c05",
       "name": "Falcon 9 Block 5 | Starlink Group 17-29",
-      "net": "2026-05-06T02:35:30Z",
+      "net": "2026-05-06T02:35:40Z",
       "mission": {
         "name": "Starlink Group 17-29"
       },
@@ -153,7 +153,7 @@
     {
       "id": "7ba18bcb-c711-4329-9fc1-7ac017fadfff",
       "name": "Falcon 9 Block 5 | Starlink Group 17-42",
-      "net": "2026-05-16T02:11:00Z",
+      "net": "2026-05-17T02:11:00Z",
       "mission": {
         "name": "Starlink Group 17-42"
       },
@@ -231,6 +231,27 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-31",
+      "net": "2026-05-22T11:00:00Z",
+      "mission": {
+        "name": "Starlink Group 10-31"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A"
       },
       "rocket": {
         "configuration": {
