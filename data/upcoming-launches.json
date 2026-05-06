@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T20:53:18.994Z",
+  "generated_at": "2026-05-06T23:36:42.377Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -466,23 +466,23 @@
       }
     },
     {
-      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-      "name": "Ariane 64 | MTG-I2",
+      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3",
       "net": "2026-06-30T00:00:00Z",
       "mission": {
-        "name": "MTG-I2"
+        "name": "BlueBird Block 2 #3"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Ariane 64",
-          "name": "Ariane 64"
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
         }
       },
       "pad": {
-        "name": "Ariane Launch Area 4",
+        "name": "Space Launch Complex 40",
         "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
