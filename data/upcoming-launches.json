@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T18:05:31.710Z",
+  "generated_at": "2026-05-08T19:51:09.363Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -69,7 +69,7 @@
     {
       "id": "e60aa241-1f2c-4459-ba94-2f576c3e5632",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-34",
-      "net": "2026-05-12T23:16:34Z",
+      "net": "2026-05-12T23:16:36Z",
       "mission": {
         "name": "Dragon CRS-2 SpX-34"
       },
@@ -146,6 +146,27 @@
         "name": "Orbital Launch Pad 2",
         "location": {
           "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | 9 x Globalstar 2-R",
+      "net": "2026-05-17T12:50:00Z",
+      "mission": {
+        "name": "9 x Globalstar 2-R"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -298,27 +319,6 @@
       }
     },
     {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | 9 x Globalstar-3",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "9 x Globalstar-3"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "1e79a5e9-c02c-470f-882f-884120100fef",
       "name": "Long March 10B | Demo Flight",
       "net": "2026-05-31T00:00:00Z",
@@ -424,27 +424,6 @@
       }
     },
     {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Rescue Mission",
-      "net": "2026-06-01T00:00:00Z",
-      "mission": {
-        "name": "Swift Rescue Mission"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Pegasus XL",
-          "name": "Pegasus XL"
-        }
-      },
-      "pad": {
-        "name": "Kwajalein Atoll",
-        "location": {
-          "name": "Air launch to orbit",
-          "country_code": "???"
-        }
-      }
-    },
-    {
       "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
       "name": "H3-30 | H3-30 Test Flight",
       "net": "2026-06-10T00:53:59Z",
@@ -546,6 +525,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Rescue Mission",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Swift Rescue Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
         }
       }
     },
