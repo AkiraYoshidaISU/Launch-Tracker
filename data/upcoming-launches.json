@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T22:35:09.129Z",
+  "generated_at": "2026-05-09T23:39:24.336Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -235,6 +235,27 @@
       }
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-05-20T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
+        }
+      }
+    },
+    {
       "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
       "name": "GSLV Mk II | GISAT-1A (EOS-05)",
       "net": "2026-05-21T03:15:00Z",
@@ -357,27 +378,6 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "South Korean ADD Solid-Fuel SLV",
-          "name": "South Korean ADD Solid-Fuel SLV"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
         }
       }
     },
