@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-05-10T23:43:13.109Z",
+  "generated_at": "2026-05-11T02:29:22.560Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a5872822-76df-404b-93d0-9ecd7ba80a70",
-      "name": "Long March 7 | Tianzhou-10",
-      "net": "2026-05-11T00:13:00Z",
-      "mission": {
-        "name": "Tianzhou-10"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 7",
-          "name": "Long March 7"
-        }
-      },
-      "pad": {
-        "name": "201",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "24f0b5b1-f573-4cc9-8898-1eb7fd5cc0f2",
       "name": "Falcon 9 Block 5 | NROL-172",
@@ -629,6 +608,27 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
