@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T16:14:28.205Z",
+  "generated_at": "2026-05-11T18:15:26.384Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -277,27 +277,6 @@
       }
     },
     {
-      "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
-      "name": "Atlas V 551 | Amazon Leo (LA-07)",
-      "net": "2026-05-22T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LA-07)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Atlas V 551",
-          "name": "Atlas V 551"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
       "name": "Electron | Viva La StriX (StriX Launch 9)",
       "net": "2026-05-22T09:30:00Z",
@@ -333,6 +312,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
+      "name": "Atlas V 551 | Amazon Leo (LA-07)",
+      "net": "2026-05-22T18:56:00Z",
+      "mission": {
+        "name": "Amazon Leo (LA-07)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Atlas V 551",
+          "name": "Atlas V 551"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
