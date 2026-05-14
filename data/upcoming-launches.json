@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T13:51:32.105Z",
+  "generated_at": "2026-05-14T16:06:39.583Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -68,10 +68,10 @@
     },
     {
       "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
-      "name": "Long March 8 | Unknown Payload",
+      "name": "Long March 8 | SpaceSail Polar Group TBD",
       "net": "2026-05-17T14:40:00Z",
       "mission": {
-        "name": "Unknown Payload"
+        "name": "SpaceSail Polar Group TBD"
       },
       "rocket": {
         "configuration": {
@@ -174,7 +174,7 @@
     {
       "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
       "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "net": "2026-05-20T11:54:00Z",
+      "net": "2026-05-20T12:04:00Z",
       "mission": {
         "name": "Globalstar 2-R Mission 1 (x 9)"
       },
@@ -189,27 +189,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-05-21T03:15:00Z",
-      "mission": {
-        "name": "GISAT-1A (EOS-05)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -294,6 +273,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "net": "2026-05-31T00:00:00Z",
+      "mission": {
+        "name": "GISAT-1A (EOS-05)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
         }
       }
     },
