@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-05-14T00:03:43.413Z",
+  "generated_at": "2026-05-14T04:27:10.132Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "4aa02420-1bcb-4dd9-afa8-06d5ff89d248",
-      "name": "Zhuque-2E | Unknown Payload",
-      "net": "2026-05-14T03:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Zhuque-2E",
-          "name": "Zhuque-2E"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 96A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "4d70f2c0-953e-4fbc-b579-3c901c06a158",
       "name": "Kinetica 1 | Unknown Payload",
@@ -105,27 +84,6 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "net": "2026-05-18T12:35:00Z",
-      "mission": {
-        "name": "Globalstar 2-R Mission 1 (x 9)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     },
@@ -214,6 +172,27 @@
       }
     },
     {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "net": "2026-05-20T11:54:00Z",
+      "mission": {
+        "name": "Globalstar 2-R Mission 1 (x 9)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
       "name": "GSLV Mk II | GISAT-1A (EOS-05)",
       "net": "2026-05-21T03:15:00Z",
@@ -237,7 +216,7 @@
     {
       "id": "ef65c43b-faf9-4adb-9155-289eaabdd097",
       "name": "Falcon 9 Block 5 | Starlink Group 10-31",
-      "net": "2026-05-22T09:04:00Z",
+      "net": "2026-05-21T09:26:00Z",
       "mission": {
         "name": "Starlink Group 10-31"
       },
@@ -618,6 +597,27 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
