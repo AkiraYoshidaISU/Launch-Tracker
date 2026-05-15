@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T20:38:19.843Z",
+  "generated_at": "2026-05-15T21:52:13.213Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -126,27 +126,6 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
-        }
-      }
-    },
-    {
-      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
-      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
-      "net": "2026-05-20T12:04:00Z",
-      "mission": {
-        "name": "Globalstar 2-R Mission 1 (x 9)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     },
@@ -291,6 +270,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
+      "net": "2026-05-31T00:00:00Z",
+      "mission": {
+        "name": "Globalstar 2-R Mission 1 (x 9)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
