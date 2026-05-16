@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:47:58.678Z",
+  "generated_at": "2026-05-16T02:12:03.335Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -319,6 +319,27 @@
       }
     },
     {
+      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
+      "name": "Long March 2F/G | Shenzhou 23",
+      "net": "2026-05-31T00:00:00Z",
+      "mission": {
+        "name": "Shenzhou 23"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2F/G",
+          "name": "Long March 2F/G"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "aafe107e-46d8-420c-bcb9-192069d80893",
       "name": "Soyuz 2.1b | 16 x Rassvet-3",
       "net": "2026-05-31T00:00:00Z",
@@ -597,27 +618,6 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer D"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d9adedc4-8fa1-4a36-84f9-43b8893a6865",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer E"
       },
       "rocket": {
         "configuration": {
