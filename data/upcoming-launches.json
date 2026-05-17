@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-05-17T14:41:33.138Z",
+  "generated_at": "2026-05-17T15:52:08.359Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "aef8f8ea-522b-4bdb-9d57-212bbe981946",
-      "name": "Long March 8 | SpaceSail Polar Group TBD",
-      "net": "2026-05-17T14:43:00Z",
-      "mission": {
-        "name": "SpaceSail Polar Group TBD"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8",
-          "name": "Long March 8"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
       "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
@@ -42,27 +21,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
-      "name": "Starship | Flight 12",
-      "net": "2026-05-19T22:30:00Z",
-      "mission": {
-        "name": "Flight 12"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
         }
       }
     },
@@ -88,23 +46,23 @@
       }
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "net": "2026-05-20T05:00:00Z",
+      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
+      "name": "Starship | Flight 12",
+      "net": "2026-05-20T22:30:00Z",
       "mission": {
-        "name": "Demo Flight"
+        "name": "Flight 12"
       },
       "rocket": {
         "configuration": {
-          "full_name": "South Korean ADD Solid-Fuel SLV",
-          "name": "South Korean ADD Solid-Fuel SLV"
+          "full_name": "Starship V3",
+          "name": "Starship"
         }
       },
       "pad": {
-        "name": "ADD Offshore launch platform",
+        "name": "Orbital Launch Pad 2",
         "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
+          "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -336,6 +294,27 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-05-31T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
         }
       }
     },
@@ -618,6 +597,27 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer D"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d9adedc4-8fa1-4a36-84f9-43b8893a6865",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer E"
       },
       "rocket": {
         "configuration": {
