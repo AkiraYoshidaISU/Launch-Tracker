@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T05:40:57.360Z",
+  "generated_at": "2026-05-18T09:44:03.163Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -130,6 +130,27 @@
       }
     },
     {
+      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
+      "name": "Long March 2F/G | Shenzhou 23",
+      "net": "2026-05-24T15:08:00Z",
+      "mission": {
+        "name": "Shenzhou 23"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2F/G",
+          "name": "Long March 2F/G"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "e6159040-124e-4a2a-91db-41f5a48acfd8",
       "name": "Falcon 9 Block 5 | Starlink Group 10-47",
       "net": "2026-05-25T11:41:00Z",
@@ -251,27 +272,6 @@
         "name": "Commercial LC-2",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "a0e0f590-1cb4-4b6b-845c-0087633af132",
-      "name": "Long March 2F/G | Shenzhou 23",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "Shenzhou 23"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2F/G",
-          "name": "Long March 2F/G"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 91 (SLS-1 / 921)",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
