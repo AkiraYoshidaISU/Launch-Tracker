@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-18T23:58:37.852Z",
+  "generated_at": "2026-05-19T03:46:36.905Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "b31313da-ee5d-42b2-9a27-20cc18105276",
       "name": "Vega-C | Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)",
-      "net": "2026-05-19T03:52:00Z",
+      "net": "2026-05-19T03:52:10Z",
       "mission": {
         "name": "Solar wind Magnetosphere Ionosphere Link Explorer (SMILE)"
       },
