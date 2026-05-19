@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T20:27:12.450Z",
+  "generated_at": "2026-05-19T21:53:37.024Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -298,27 +298,6 @@
       }
     },
     {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
-        }
-      }
-    },
-    {
       "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
       "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
       "net": "2026-05-31T00:00:00Z",
@@ -483,6 +462,27 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
