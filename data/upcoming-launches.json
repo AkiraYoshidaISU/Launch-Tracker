@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T20:05:10.497Z",
+  "generated_at": "2026-05-20T22:08:23.677Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -69,7 +69,7 @@
     {
       "id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
       "name": "Falcon 9 Block 5 | Starlink Group 17-37",
-      "net": "2026-05-23T14:00:00Z",
+      "net": "2026-05-24T14:00:00Z",
       "mission": {
         "name": "Starlink Group 17-37"
       },
@@ -153,7 +153,7 @@
     {
       "id": "a7341350-789e-4f61-99a4-a61ebc40c05b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-41",
-      "net": "2026-05-27T14:00:00Z",
+      "net": "2026-05-28T14:00:00Z",
       "mission": {
         "name": "Starlink Group 17-41"
       },
@@ -235,27 +235,6 @@
       }
     },
     {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 10B",
-          "name": "Long March 10B"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
       "net": "2026-05-31T00:00:00Z",
@@ -321,7 +300,7 @@
     {
       "id": "4936311a-af7c-4b05-8d7b-3eea59fc0f11",
       "name": "Falcon 9 Block 5 | Starlink Group 17-47",
-      "net": "2026-05-31T02:00:00Z",
+      "net": "2026-06-01T02:00:00Z",
       "mission": {
         "name": "Starlink Group 17-47"
       },
@@ -618,6 +597,27 @@
       "net": "2026-06-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "c5783e2b-d458-4b99-9936-4043c236190b",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer F",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer F"
       },
       "rocket": {
         "configuration": {
