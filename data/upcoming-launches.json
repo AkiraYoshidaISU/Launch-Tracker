@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-05-22T22:01:02.313Z",
+  "generated_at": "2026-05-22T23:36:45.459Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "ed83366c-872c-4484-97c1-bc74832304fc",
-      "name": "Starship | Flight 12",
-      "net": "2026-05-22T22:30:00Z",
-      "mission": {
-        "name": "Flight 12"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "75a35be5-b3bd-4591-b978-9a876da9fa96",
       "name": "Falcon 9 Block 5 | Starlink Group 17-37",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
+        }
+      }
+    },
+    {
+      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+      "name": "RFA One | Maiden Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Maiden Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "RFA One",
+          "name": "RFA One"
+        }
+      },
+      "pad": {
+        "name": "Launch Pad Fredo",
+        "location": {
+          "name": "SaxaVord Spaceport",
+          "country_code": "GBR"
         }
       }
     }
