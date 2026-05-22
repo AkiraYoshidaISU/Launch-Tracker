@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-05-22T06:42:43.509Z",
+  "generated_at": "2026-05-22T10:18:51.813Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "156a9e46-01b5-46f4-818e-ea563c71c5fe",
-      "name": "Electron | Viva La StriX (StriX Launch 9)",
-      "net": "2026-05-22T09:30:00Z",
-      "mission": {
-        "name": "Viva La StriX (StriX Launch 9)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1B",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "ed83366c-872c-4484-97c1-bc74832304fc",
       "name": "Starship | Flight 12",
@@ -111,7 +90,7 @@
     {
       "id": "6d2beb1a-6869-4505-9fc1-a4aa224178e2",
       "name": "Long March 7A | Unknown Payload",
-      "net": "2026-05-26T16:00:00Z",
+      "net": "2026-05-26T16:15:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -189,48 +168,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "GISAT-1A (EOS-05)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
-        }
-      }
-    },
-    {
-      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
-      "name": "Soyuz 2.1b | 16 x Rassvet-3",
-      "net": "2026-05-31T00:00:00Z",
-      "mission": {
-        "name": "16 x Rassvet-3"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
         }
       }
     },
@@ -403,23 +340,23 @@
       }
     },
     {
-      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
-      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
       "net": "2026-06-30T00:00:00Z",
       "mission": {
-        "name": "Transporter 17 (Dedicated SSO Rideshare)"
+        "name": "GISAT-1A (EOS-05)"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
         }
       },
       "pad": {
-        "name": "Space Launch Complex 4E",
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
         "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
         }
       }
     },
@@ -630,6 +567,69 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "c5783e2b-d458-4b99-9936-4043c236190b",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer F",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer F"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
+      "name": "Long March 12B | Demo Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12B",
+          "name": "Long March 12B"
+        }
+      },
+      "pad": {
+        "name": "Long March 12 series Pad",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+      "name": "Themis Demonstrator | T1H-1",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "T1H-1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Themis Demonstrator",
+          "name": "Themis Demonstrator"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 3B",
+        "location": {
+          "name": "Esrange Space Center",
+          "country_code": "SWE"
         }
       }
     }
