@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:27:44.291Z",
+  "generated_at": "2026-05-24T01:28:42.745Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -214,6 +214,27 @@
       }
     },
     {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "net": "2026-06-10T00:00:00Z",
+      "mission": {
+        "name": "GISAT-1A (EOS-05)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
+        }
+      }
+    },
+    {
       "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
       "name": "H3-30 | H3-30 Test Flight",
       "net": "2026-06-10T00:53:59Z",
@@ -315,27 +336,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "GISAT-1A (EOS-05)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
