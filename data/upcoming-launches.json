@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T20:04:31.969Z",
+  "generated_at": "2026-05-27T22:15:14.052Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -189,6 +189,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "114577dc-7617-461c-aaeb-9bd0f64b5a4b",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-35",
+      "net": "2026-06-08T10:07:00Z",
+      "mission": {
+        "name": "Starlink Group 10-35"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "SaxaVord Spaceport",
           "country_code": "GBR"
-        }
-      }
-    },
-    {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 10B",
-          "name": "Long March 10B"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     }
