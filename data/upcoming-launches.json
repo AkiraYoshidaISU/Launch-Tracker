@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T14:22:09.968Z",
+  "generated_at": "2026-05-27T17:39:22.881Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -109,27 +109,6 @@
       }
     },
     {
-      "id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
-      "name": "New Glenn | Amazon Leo (LN-01)",
-      "net": "2026-06-02T18:04:00Z",
-      "mission": {
-        "name": "Amazon Leo (LN-01)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "New Glenn",
-          "name": "New Glenn"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "cfff5e89-af2e-46b1-9446-7b0f18de4ef7",
       "name": "Falcon 9 Block 5 | Starlink Group 10-43",
       "net": "2026-06-03T08:02:00Z",
@@ -167,6 +146,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ca3d56b7-2175-48e4-9a6a-2ecc9996d96b",
+      "name": "New Glenn | Amazon Leo (LN-01)",
+      "net": "2026-06-04T17:21:00Z",
+      "mission": {
+        "name": "Amazon Leo (LN-01)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "New Glenn",
+          "name": "New Glenn"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
