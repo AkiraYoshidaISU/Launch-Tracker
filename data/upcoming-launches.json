@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T14:31:27.329Z",
+  "generated_at": "2026-05-28T17:58:20.788Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -147,6 +147,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "5db6b0f1-446d-4209-824f-1187e1b6d212",
+      "name": "Long March 6A | Unknown Payload",
+      "net": "2026-06-04T11:41:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 6A",
+          "name": "Long March 6A"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": {
+          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
-        }
-      }
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Maiden Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "RFA One",
-          "name": "RFA One"
-        }
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
         }
       }
     }
