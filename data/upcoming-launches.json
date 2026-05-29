@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T17:28:36.103Z",
+  "generated_at": "2026-05-29T19:53:13.969Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -210,6 +210,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "net": "2026-06-10T00:30:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Smart Dragon 3",
+          "name": "Smart Dragon 3"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
-        }
-      }
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Maiden Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "RFA One",
-          "name": "RFA One"
-        }
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
         }
       }
     }
