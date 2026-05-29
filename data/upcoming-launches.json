@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-29T13:53:36.197Z",
+  "generated_at": "2026-05-29T17:28:36.103Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "ff0a6a32-6513-4e85-9fd8-a2d022add74d",
       "name": "Atlas V 551 | Amazon Leo (LA-07)",
-      "net": "2026-05-29T23:33:00Z",
+      "net": "2026-05-29T23:33:30Z",
       "mission": {
         "name": "Amazon Leo (LA-07)"
       },
