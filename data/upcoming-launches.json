@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T23:47:47.700Z",
+  "generated_at": "2026-05-29T02:33:27.242Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -320,10 +320,10 @@
     },
     {
       "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
       "net": "2026-06-30T00:00:00Z",
       "mission": {
-        "name": "BlueBird Block 2 #3"
+        "name": "BlueBird Block 2 #3-5"
       },
       "rocket": {
         "configuration": {
@@ -592,6 +592,27 @@
       }
     },
     {
+      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+      "name": "Falcon 9 Block 5 | Sirius SXM-11",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Sirius SXM-11"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "459225a2-dc1a-43d7-8c2c-78f9552b0a05",
       "name": "Long March 12B | Demo Flight",
       "net": "2026-06-30T00:00:00Z",
@@ -609,27 +630,6 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-      "name": "Themis Demonstrator | T1H-1",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "T1H-1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Themis Demonstrator",
-          "name": "Themis Demonstrator"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 3B",
-        "location": {
-          "name": "Esrange Space Center",
-          "country_code": "SWE"
         }
       }
     }
