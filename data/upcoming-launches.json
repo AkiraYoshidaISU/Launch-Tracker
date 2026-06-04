@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T13:38:21.824Z",
+  "generated_at": "2026-06-04T16:47:31.385Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -111,7 +111,7 @@
     {
       "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
       "name": "Long March 5 | Unknown Payload",
-      "net": "2026-06-10T06:00:00Z",
+      "net": "2026-06-10T07:30:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -195,7 +195,7 @@
     {
       "id": "bad5ea8c-8b17-4cb3-a063-d427fb092275",
       "name": "Falcon 9 Block 5 | Starlink Group 17-54",
-      "net": "2026-06-14T02:11:00Z",
+      "net": "2026-06-14T14:00:00Z",
       "mission": {
         "name": "Starlink Group 17-54"
       },
