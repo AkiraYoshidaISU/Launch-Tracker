@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-06-04T10:26:04.002Z",
+  "generated_at": "2026-06-04T13:38:21.824Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "cfff5e89-af2e-46b1-9446-7b0f18de4ef7",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-43",
-      "net": "2026-06-04T10:26:30Z",
-      "mission": {
-        "name": "Starlink Group 10-43"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "5db6b0f1-446d-4209-824f-1187e1b6d212",
-      "name": "Long March 6A | Unknown Payload",
-      "net": "2026-06-04T11:41:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 6A",
-          "name": "Long March 6A"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 9A",
-        "location": {
-          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "3dd21d77-a37d-419c-86fb-8591fe256583",
       "name": "Long March 8 | Unknown Payload",
@@ -88,27 +46,6 @@
       }
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
-      "net": "2026-06-08T05:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "South Korean ADD Solid-Fuel SLV",
-          "name": "South Korean ADD Solid-Fuel SLV"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
-        }
-      }
-    },
-    {
       "id": "114577dc-7617-461c-aaeb-9bd0f64b5a4b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-35",
       "net": "2026-06-08T10:07:00Z",
@@ -130,22 +67,22 @@
       }
     },
     {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "net": "2026-06-10T00:30:00Z",
+      "id": "93cd9d2d-d8e2-49a1-8a85-a0eb8aef4804",
+      "name": "Zhuque-2E Block 2 | Unknown Payload",
+      "net": "2026-06-09T08:20:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Smart Dragon 3",
-          "name": "Smart Dragon 3"
+          "full_name": "Zhuque-2E Block 2",
+          "name": "Zhuque-2E Block 2"
         }
       },
       "pad": {
-        "name": "Haiyang offshore launch location",
+        "name": "Launch Area 96A",
         "location": {
-          "name": "Haiyang Oriental Spaceport",
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -214,6 +151,27 @@
       }
     },
     {
+      "id": "e6cefffc-19a6-4a4b-a7f0-ebe907d5a6aa",
+      "name": "HASTE | Curveball",
+      "net": "2026-06-11T04:00:00Z",
+      "mission": {
+        "name": "Curveball"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+        "location": {
+          "name": "Wallops Flight Facility, Virginia, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-54",
       "net": "2026-06-12T12:27:00Z",
@@ -252,6 +210,69 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
+      "name": "Long March 3B/E | Unknown Payload",
+      "net": "2026-06-16T08:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 3B/E",
+          "name": "Long March 3B/E"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 2 (LC-2)",
+        "location": {
+          "name": "Xichang Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "756a042f-3da8-4a21-bb42-5996fc148050",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-06-17T02:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12",
+          "name": "Long March 12"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
+      "name": "Long March 7A | Unknown Payload",
+      "net": "2026-06-23T02:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 7A",
+          "name": "Long March 7A"
+        }
+      },
+      "pad": {
+        "name": "201",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -356,6 +377,48 @@
         "name": "Kwajalein Atoll",
         "location": {
           "name": "Air launch to orbit",
+          "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Smart Dragon 3",
+          "name": "Smart Dragon 3"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
           "country_code": "???"
         }
       }
@@ -567,69 +630,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-      "name": "Themis Demonstrator | T1H-1",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "T1H-1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Themis Demonstrator",
-          "name": "Themis Demonstrator"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 3B",
-        "location": {
-          "name": "Esrange Space Center",
-          "country_code": "SWE"
-        }
-      }
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Maiden Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "RFA One",
-          "name": "RFA One"
-        }
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
-        }
-      }
-    },
-    {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 10B",
-          "name": "Long March 10B"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     }
