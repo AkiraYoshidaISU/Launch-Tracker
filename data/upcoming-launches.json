@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T11:43:03.726Z",
+  "generated_at": "2026-06-05T14:30:17.379Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -235,6 +235,27 @@
       }
     },
     {
+      "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
+      "net": "2026-06-17T11:53:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-03)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
+        }
+      }
+    },
+    {
       "id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
       "name": "Long March 7A | Unknown Payload",
       "net": "2026-06-23T02:00:00Z",
@@ -420,27 +441,6 @@
         "location": {
           "name": "Andøya Spaceport",
           "country_code": "NOR"
-        }
-      }
-    },
-    {
-      "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-03)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     },
