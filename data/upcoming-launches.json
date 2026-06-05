@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-05T04:15:31.802Z",
+  "generated_at": "2026-06-05T08:29:05.100Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "3dd21d77-a37d-419c-86fb-8591fe256583",
-      "name": "Long March 8 | Unknown Payload",
-      "net": "2026-06-05T06:30:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8",
-          "name": "Long March 8"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "af8d71dd-f439-47b3-91ed-57f959a581e0",
       "name": "Falcon 9 Block 5 | Starlink Group 17-43",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
+      "name": "Themis Demonstrator | T1H-1",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "T1H-1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Themis Demonstrator",
+          "name": "Themis Demonstrator"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 3B",
+        "location": {
+          "name": "Esrange Space Center",
+          "country_code": "SWE"
         }
       }
     }
