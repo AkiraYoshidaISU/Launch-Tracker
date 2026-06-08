@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-08T06:29:45.744Z",
+  "generated_at": "2026-06-08T11:26:33.522Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "114577dc-7617-461c-aaeb-9bd0f64b5a4b",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-35",
-      "net": "2026-06-08T10:13:50Z",
-      "mission": {
-        "name": "Starlink Group 10-35"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "93cd9d2d-d8e2-49a1-8a85-a0eb8aef4804",
       "name": "Zhuque-2E Block 2 | Unknown Payload",
@@ -41,48 +20,6 @@
         "name": "Launch Area 96A",
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
-      "name": "H3-30 | H3-30 Test Flight",
-      "net": "2026-06-10T00:53:59Z",
-      "mission": {
-        "name": "H3-30 Test Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "H3-30",
-          "name": "H3-30"
-        }
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": {
-          "name": "Tanegashima Space Center, Japan",
-          "country_code": "JPN"
-        }
-      }
-    },
-    {
-      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
-      "name": "Long March 5 | Unknown Payload",
-      "net": "2026-06-10T07:30:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 5",
-          "name": "Long March 5"
-        }
-      },
-      "pad": {
-        "name": "101",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -130,6 +67,48 @@
       }
     },
     {
+      "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
+      "name": "Long March 5 | Unknown Payload",
+      "net": "2026-06-11T07:30:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 5",
+          "name": "Long March 5"
+        }
+      },
+      "pad": {
+        "name": "101",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
+      "name": "H3-30 | H3-30 Test Flight",
+      "net": "2026-06-12T00:00:00Z",
+      "mission": {
+        "name": "H3-30 Test Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "H3-30",
+          "name": "H3-30"
+        }
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": {
+          "name": "Tanegashima Space Center, Japan",
+          "country_code": "JPN"
+        }
+      }
+    },
+    {
       "id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-54",
       "net": "2026-06-12T12:27:00Z",
@@ -172,9 +151,30 @@
       }
     },
     {
+      "id": "ffc0aee1-fdd7-4638-b098-9d0c01b40663",
+      "name": "Kinetica 1 | Unknown Payload",
+      "net": "2026-06-15T03:40:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kinetica 1",
+          "name": "Kinetica 1"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 130",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
       "name": "Long March 3B/E | Unknown Payload",
-      "net": "2026-06-16T08:00:00Z",
+      "net": "2026-06-16T09:45:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
