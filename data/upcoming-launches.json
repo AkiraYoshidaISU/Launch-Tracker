@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-09T06:32:01.905Z",
+  "generated_at": "2026-06-09T10:29:35.866Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "93cd9d2d-d8e2-49a1-8a85-a0eb8aef4804",
-      "name": "Zhuque-2E Block 2 | Unknown Payload",
-      "net": "2026-06-09T08:20:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Zhuque-2E Block 2",
-          "name": "Zhuque-2E Block 2"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 96A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
       "name": "Falcon 9 Block 5 | Starlink Group 17-44",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
+        }
+      }
+    },
+    {
+      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+      "name": "RFA One | Maiden Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Maiden Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "RFA One",
+          "name": "RFA One"
+        }
+      },
+      "pad": {
+        "name": "Launch Pad Fredo",
+        "location": {
+          "name": "SaxaVord Spaceport",
+          "country_code": "GBR"
         }
       }
     }
