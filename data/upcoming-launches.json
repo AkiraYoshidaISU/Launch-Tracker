@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:29:35.866Z",
+  "generated_at": "2026-06-09T13:24:26.193Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -151,6 +151,27 @@
       }
     },
     {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-06-15T20:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
+        }
+      }
+    },
+    {
       "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
       "name": "Long March 3B/E | Unknown Payload",
       "net": "2026-06-16T09:45:00Z",
@@ -189,6 +210,48 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
+      "net": "2026-06-17T06:39:00Z",
+      "mission": {
+        "name": "BlueBird Block 2 #3-5"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
+      "name": "Falcon 9 Block 5 | NROL-179",
+      "net": "2026-06-17T09:08:00Z",
+      "mission": {
+        "name": "NROL-179"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -298,27 +361,6 @@
       }
     },
     {
-      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "BlueBird Block 2 #3-5"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
       "name": "GSLV Mk II | GISAT-1A (EOS-05)",
       "net": "2026-06-30T00:00:00Z",
@@ -399,27 +441,6 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
-        }
-      }
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
-        }
-      }
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Maiden Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "RFA One",
-          "name": "RFA One"
-        }
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
         }
       }
     }
