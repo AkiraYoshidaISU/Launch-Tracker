@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:28:38.768Z",
+  "generated_at": "2026-06-09T06:32:01.905Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -90,7 +90,7 @@
     {
       "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
       "name": "H3-30 | H3-30 Test Flight",
-      "net": "2026-06-12T00:00:00Z",
+      "net": "2026-06-12T00:53:59Z",
       "mission": {
         "name": "H3-30 Test Flight"
       },
