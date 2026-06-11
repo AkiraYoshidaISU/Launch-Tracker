@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-11T11:53:28.419Z",
+  "generated_at": "2026-06-11T15:40:24.044Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "c7b7e18f-1b42-467e-a8ed-181fb58080e8",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-44",
-      "net": "2026-06-11T15:04:40Z",
-      "mission": {
-        "name": "Starlink Group 17-44"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
       "name": "H3-30 | H3-30 Test Flight",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
+        }
+      }
+    },
+    {
+      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+      "name": "RFA One | Maiden Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Maiden Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "RFA One",
+          "name": "RFA One"
+        }
+      },
+      "pad": {
+        "name": "Launch Pad Fredo",
+        "location": {
+          "name": "SaxaVord Spaceport",
+          "country_code": "GBR"
         }
       }
     }
