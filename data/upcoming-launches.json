@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T15:40:24.044Z",
+  "generated_at": "2026-06-11T18:42:11.050Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -362,10 +362,10 @@
     },
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Rescue Mission",
+      "name": "Pegasus XL | Swift Boost Mission",
       "net": "2026-06-30T00:00:00Z",
       "mission": {
-        "name": "Swift Rescue Mission"
+        "name": "Swift Boost Mission"
       },
       "rocket": {
         "configuration": {
