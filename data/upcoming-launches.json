@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-11T02:51:17.334Z",
+  "generated_at": "2026-06-11T07:24:08.437Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e6cefffc-19a6-4a4b-a7f0-ebe907d5a6aa",
-      "name": "HASTE | Curveball",
-      "net": "2026-06-11T04:00:00Z",
-      "mission": {
-        "name": "Curveball"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-        "location": {
-          "name": "Wallops Flight Facility, Virginia, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "2670e4f1-d58b-4787-9c3f-f9eb03349513",
       "name": "Long March 5 | Unknown Payload",
@@ -629,6 +608,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+      "name": "Falcon 9 Block 5 | Sirius SXM-11",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Sirius SXM-11"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
