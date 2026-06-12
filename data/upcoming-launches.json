@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-11T23:03:01.287Z",
+  "generated_at": "2026-06-12T01:42:31.539Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e1a3b702-464f-435d-8c1f-ade9be196b77",
-      "name": "H3-30 | H3-30 Test Flight",
-      "net": "2026-06-12T00:53:59Z",
-      "mission": {
-        "name": "H3-30 Test Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "H3-30",
-          "name": "H3-30"
-        }
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": {
-          "name": "Tanegashima Space Center, Japan",
-          "country_code": "JPN"
-        }
-      }
-    },
     {
       "id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
       "name": "Falcon 9 Block 5 | Starlink Group 10-54",
@@ -630,6 +609,27 @@
         "location": {
           "name": "SaxaVord Spaceport",
           "country_code": "GBR"
+        }
+      }
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "name": "Long March 10B | Demo Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 10B",
+          "name": "Long March 10B"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     }
