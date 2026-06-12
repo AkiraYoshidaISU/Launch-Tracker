@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-12T10:48:17.103Z",
+  "generated_at": "2026-06-12T13:58:56.958Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "229267d8-74ca-4d0b-8711-b2efe621fc6b",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-54",
-      "net": "2026-06-12T12:37:00Z",
-      "mission": {
-        "name": "Starlink Group 10-54"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "ffc0aee1-fdd7-4638-b098-9d0c01b40663",
       "name": "Kinetica 1 | Unknown Payload",
@@ -629,6 +608,27 @@
         "name": "Commercial LC-2",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
+      "name": "Nebula-1 | Demo Flight",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Nebula-1",
+          "name": "Nebula-1"
+        }
+      },
+      "pad": {
+        "name": "Land Launch Pad 1",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
           "country_code": "CHN"
         }
       }
