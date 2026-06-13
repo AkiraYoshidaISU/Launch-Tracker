@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T12:20:39.970Z",
+  "generated_at": "2026-06-13T14:35:05.933Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -83,6 +83,48 @@
         "name": "Launch Complex 2 (LC-2)",
         "location": {
           "name": "Xichang Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "756a042f-3da8-4a21-bb42-5996fc148050",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-06-17T02:45:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12",
+          "name": "Long March 12"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "cf655887-1cc5-4ef5-b8be-2821d5af17c9",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-06-17T03:40:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kuaizhou 11",
+          "name": "Kuaizhou 11"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -294,27 +336,6 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
-        }
-      }
-    },
-    {
-      "id": "756a042f-3da8-4a21-bb42-5996fc148050",
-      "name": "Long March 12 | Unknown Payload",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 12",
-          "name": "Long March 12"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     },
@@ -567,27 +588,6 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
-        }
-      }
-    },
-    {
-      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
-      "name": "RFA One | Maiden Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Maiden Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "RFA One",
-          "name": "RFA One"
-        }
-      },
-      "pad": {
-        "name": "Launch Pad Fredo",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
         }
       }
     },
