@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-15T02:57:09.525Z",
+  "generated_at": "2026-06-15T09:19:22.527Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "ffc0aee1-fdd7-4638-b098-9d0c01b40663",
-      "name": "Kinetica 1 | Unknown Payload",
-      "net": "2026-06-15T03:40:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kinetica 1",
-          "name": "Kinetica 1"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 130",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "bad5ea8c-8b17-4cb3-a063-d427fb092275",
       "name": "Falcon 9 Block 5 | Starlink Group 17-54",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
+      "name": "Soyuz 2.1a | Soyuz MS-29",
+      "net": "2026-07-14T14:43:00Z",
+      "mission": {
+        "name": "Soyuz MS-29"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a",
+          "name": "Soyuz 2.1a"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
