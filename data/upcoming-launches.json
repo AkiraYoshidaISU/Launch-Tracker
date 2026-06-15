@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-15T19:10:40.339Z",
+  "generated_at": "2026-06-15T21:59:22.903Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-06-15T20:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
-        }
-      }
-    },
     {
       "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
       "name": "Long March 3B/E | Unknown Payload",
@@ -42,6 +21,27 @@
         "location": {
           "name": "Xichang Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-06-16T20:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
