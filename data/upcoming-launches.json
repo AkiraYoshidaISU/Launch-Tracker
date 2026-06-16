@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-16T08:44:58.509Z",
+  "generated_at": "2026-06-16T13:24:12.720Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "0ff43072-5407-425b-8c8d-6bca068143b9",
-      "name": "Long March 3B/E | Unknown Payload",
-      "net": "2026-06-16T09:45:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 3B/E",
-          "name": "Long March 3B/E"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 2 (LC-2)",
-        "location": {
-          "name": "Xichang Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "756a042f-3da8-4a21-bb42-5996fc148050",
       "name": "Long March 12 | Unknown Payload",
@@ -147,6 +126,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-06-18T20:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
@@ -340,27 +340,6 @@
       }
     },
     {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
-        }
-      }
-    },
-    {
       "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
       "net": "2026-06-30T00:00:00Z",
@@ -550,27 +529,6 @@
       }
     },
     {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 10B",
-          "name": "Long March 10B"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
       "name": "Nebula-1 | Demo Flight",
       "net": "2026-06-30T00:00:00Z",
@@ -630,6 +588,48 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "name": "Electron | LOXSAT 1",
+      "net": "2026-07-17T00:00:00Z",
+      "mission": {
+        "name": "LOXSAT 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "BlueBird Block 2 #6-8"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
