@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:24:12.720Z",
+  "generated_at": "2026-06-16T18:13:35.987Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -235,6 +235,27 @@
       }
     },
     {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "net": "2026-06-27T09:00:00Z",
+      "mission": {
+        "name": "Swift Boost Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
+        }
+      }
+    },
+    {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
       "net": "2026-06-30T00:00:00Z",
@@ -273,27 +294,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Boost Mission",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Swift Boost Mission"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Pegasus XL",
-          "name": "Pegasus XL"
-        }
-      },
-      "pad": {
-        "name": "Kwajalein Atoll",
-        "location": {
-          "name": "Air launch to orbit",
-          "country_code": "???"
         }
       }
     },
