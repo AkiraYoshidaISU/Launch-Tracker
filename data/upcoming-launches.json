@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-17T05:22:32.481Z",
+  "generated_at": "2026-06-17T10:12:16.770Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
-      "net": "2026-06-17T06:39:00Z",
-      "mission": {
-        "name": "BlueBird Block 2 #3-5"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
       "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "a2234679-5efe-4a00-9aff-cf82dbac22b0",
+      "name": "H3-24 | HTV-X2",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "HTV-X2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "H3-24",
+          "name": "H3-24"
+        }
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": {
+          "name": "Tanegashima Space Center, Japan",
+          "country_code": "JPN"
         }
       }
     }
