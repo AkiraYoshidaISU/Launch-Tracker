@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-17T10:12:16.770Z",
+  "generated_at": "2026-06-17T14:06:43.664Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "ed8ccd18-b530-4f55-92ae-bda89ac2985c",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-03)",
-      "net": "2026-06-17T11:53:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-03)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
     {
       "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
       "name": "Falcon 9 Block 5 | NROL-179",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Tanegashima Space Center, Japan",
           "country_code": "JPN"
+        }
+      }
+    },
+    {
+      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
+      "name": "Long March 10B | Demo Flight",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 10B",
+          "name": "Long March 10B"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     }
