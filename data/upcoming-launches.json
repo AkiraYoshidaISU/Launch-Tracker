@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-06-17T00:22:06.292Z",
+  "generated_at": "2026-06-17T05:22:32.481Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "756a042f-3da8-4a21-bb42-5996fc148050",
-      "name": "Long March 12 | Unknown Payload",
-      "net": "2026-06-17T02:45:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 12",
-          "name": "Long March 12"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "cf655887-1cc5-4ef5-b8be-2821d5af17c9",
-      "name": "Kuaizhou 11 | Unknown Payload",
-      "net": "2026-06-17T03:40:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kuaizhou 11",
-          "name": "Kuaizhou 11"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 95A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "c3f48f48-0e0a-4bca-917e-de494cfca35b",
       "name": "Falcon 9 Block 5 | BlueBird Block 2 #3-5",
@@ -84,27 +42,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
-      "net": "2026-06-17T20:40:00Z",
-      "mission": {
-        "name": "Ten Owl Of Ten (StriX Launch 10)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
         }
       }
     },
@@ -252,6 +189,27 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
+      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Ten Owl Of Ten (StriX Launch 10)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
@@ -630,6 +588,48 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
+      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Transporter 17 (Dedicated SSO Rideshare)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
+      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "GISAT-1A (EOS-05)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
         }
       }
     }
