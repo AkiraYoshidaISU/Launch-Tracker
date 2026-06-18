@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T01:59:54.316Z",
+  "generated_at": "2026-06-18T06:57:49.988Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -21,27 +21,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
-      "name": "Spectrum | Onward and Upward",
-      "net": "2026-06-20T20:00:00Z",
-      "mission": {
-        "name": "Onward and Upward"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Spectrum",
-          "name": "Spectrum"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad",
-        "location": {
-          "name": "Andøya Spaceport",
-          "country_code": "NOR"
         }
       }
     },
@@ -90,7 +69,7 @@
     {
       "id": "f72c6ea1-dc44-4f0e-bb51-1c52eff9efe8",
       "name": "Long March 7A | Unknown Payload",
-      "net": "2026-06-23T02:00:00Z",
+      "net": "2026-06-23T02:10:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -252,6 +231,27 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
+      "name": "Spectrum | Onward and Upward",
+      "net": "2026-06-30T00:00:00Z",
+      "mission": {
+        "name": "Onward and Upward"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     },
