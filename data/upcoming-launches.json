@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-19T05:32:00.055Z",
+  "generated_at": "2026-06-19T10:15:19.227Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "5d4099bf-a0be-4f54-b236-b6ab3aed4146",
-      "name": "Falcon 9 Block 5 | NROL-179",
-      "net": "2026-06-19T08:50:40Z",
-      "mission": {
-        "name": "NROL-179"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "de5fbae3-66b9-4bbf-8938-4d55f3318c07",
       "name": "Falcon 9 Block 5 | Starlink Group 17-28",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Flight 13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
         }
       }
     }
