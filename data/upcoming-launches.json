@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T13:11:23.051Z",
+  "generated_at": "2026-06-22T18:00:25.676Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -104,6 +104,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
+      "name": "Falcon 9 Block 5 | Sirius SXM-11",
+      "net": "2026-06-29T02:25:00Z",
+      "mission": {
+        "name": "Sirius SXM-11"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -231,27 +252,6 @@
         "location": {
           "name": "Andøya Spaceport",
           "country_code": "NOR"
-        }
-      }
-    },
-    {
-      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
-      "name": "Falcon 9 Block 5 | Sirius SXM-11",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Sirius SXM-11"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     },
