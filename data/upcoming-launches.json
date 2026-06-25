@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:17:27.265Z",
+  "generated_at": "2026-06-25T18:29:49.882Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -219,6 +219,48 @@
       "net": "2026-07-03T11:20:00Z",
       "mission": {
         "name": "Starlink Group 10-50"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-48",
+      "net": "2026-07-05T14:00:00Z",
+      "mission": {
+        "name": "Starlink Group 17-48"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "62d4cd48-ed28-418b-b58c-526781a50a39",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-42",
+      "net": "2026-07-09T09:05:00Z",
+      "mission": {
+        "name": "Starlink Group 10-42"
       },
       "rocket": {
         "configuration": {
@@ -588,48 +630,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
-      "name": "Long March 5 | Chang'e 7",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Chang'e 7"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 5",
-          "name": "Long March 5"
-        }
-      },
-      "pad": {
-        "name": "101",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-09T16:10:00Z",
-      "mission": {
-        "name": "Progress MS-35 (96P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
         }
       }
     }
