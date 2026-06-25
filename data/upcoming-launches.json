@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T11:12:05.668Z",
+  "generated_at": "2026-06-25T13:33:08.302Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -147,27 +147,6 @@
         "location": {
           "name": "Haiyang Oriental Spaceport",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-      "name": "Themis Demonstrator | T1H-1",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "T1H-1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Themis Demonstrator",
-          "name": "Themis Demonstrator"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 3B",
-        "location": {
-          "name": "Esrange Space Center",
-          "country_code": "SWE"
         }
       }
     },
@@ -630,6 +609,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-09T16:10:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
