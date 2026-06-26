@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-26T17:13:51.740Z",
+  "generated_at": "2026-06-26T19:15:00.702Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
-      "net": "2026-06-26T17:43:00Z",
-      "mission": {
-        "name": "Ten Owl Of Ten (StriX Launch 10)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1B",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "0740c699-9877-4331-8aef-4e29ea6281c0",
       "name": "Falcon 9 Block 5 | Starlink Group 17-40",
@@ -111,7 +90,7 @@
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "name": "Pegasus XL | Swift Boost Mission",
-      "net": "2026-06-30T07:30:00Z",
+      "net": "2026-06-30T10:23:00Z",
       "mission": {
         "name": "Swift Boost Mission"
       },
@@ -627,6 +606,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
+      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Dragon CRS-2 SpX-35"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
