@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-06-26T02:38:31.449Z",
+  "generated_at": "2026-06-26T06:47:06.904Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
+    {
+      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
+      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
+      "net": "2026-06-26T16:45:00Z",
+      "mission": {
+        "name": "Ten Owl Of Ten (StriX Launch 10)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
     {
       "id": "f596ad48-881e-47d6-806d-113c6dd97427",
       "name": "Pegasus XL | Swift Boost Mission",
@@ -88,27 +109,6 @@
       }
     },
     {
-      "id": "add0a5be-1cf0-49cb-975a-e8c8e18d37ec",
-      "name": "Electron | Ten Owl Of Ten (StriX Launch 10)",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Ten Owl Of Ten (StriX Launch 10)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
       "net": "2026-06-30T00:00:00Z",
@@ -126,48 +126,6 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Smart Dragon 3",
-          "name": "Smart Dragon 3"
-        }
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "a8d8d683-3ab0-40ab-beb0-e66bb55afd91",
-      "name": "Nebula-1 | Demo Flight",
-      "net": "2026-06-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Nebula-1",
-          "name": "Nebula-1"
-        }
-      },
-      "pad": {
-        "name": "Land Launch Pad 1",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
         }
       }
     },
@@ -424,6 +382,27 @@
       }
     },
     {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Smart Dragon 3",
+          "name": "Smart Dragon 3"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "net": "2026-07-31T00:00:00Z",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "name": "Long March 5 | Chang'e 7",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Chang'e 7"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 5",
+          "name": "Long March 5"
+        }
+      },
+      "pad": {
+        "name": "101",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     }
