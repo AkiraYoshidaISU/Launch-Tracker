@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T14:23:22.172Z",
+  "generated_at": "2026-06-27T15:46:44.103Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -174,7 +174,7 @@
     {
       "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
       "name": "Long March 8A | Unknown Payload",
-      "net": "2026-07-02T12:00:00Z",
+      "net": "2026-07-02T13:50:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
