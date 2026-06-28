@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T18:40:32.770Z",
+  "generated_at": "2026-06-28T20:07:29.902Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
-      "net": "2026-06-30T00:00:00Z",
+      "net": "2026-06-30T01:15:00Z",
       "mission": {
         "name": "The Grain Goddess Provides (iQPS Launch 7)"
       },
