@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-06-29T00:03:24.351Z",
+  "generated_at": "2026-06-29T05:08:59.461Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "ce3db8f7-ba9b-4a2a-953c-c6c6ee926541",
-      "name": "Falcon 9 Block 5 | Sirius SXM-11",
-      "net": "2026-06-29T02:25:00Z",
-      "mission": {
-        "name": "Sirius SXM-11"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
-      "net": "2026-06-30T01:15:00Z",
-      "mission": {
-        "name": "The Grain Goddess Provides (iQPS Launch 7)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
@@ -84,6 +42,27 @@
         "location": {
           "name": "Air launch to orbit",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
+      "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
+      "net": "2026-07-01T13:00:00Z",
+      "mission": {
+        "name": "The Grain Goddess Provides (iQPS Launch 7)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "name": "Long March 5 | Chang'e 7",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Chang'e 7"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 5",
+          "name": "Long March 5"
+        }
+      },
+      "pad": {
+        "name": "101",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     }
