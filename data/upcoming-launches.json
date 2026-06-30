@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-06-30T10:28:04.536Z",
+  "generated_at": "2026-06-30T12:28:50.516Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "net": "2026-07-01T09:43:00Z",
+      "mission": {
+        "name": "Swift Boost Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
+        }
+      }
+    },
     {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
@@ -609,27 +630,6 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-09T16:10:00Z",
-      "mission": {
-        "name": "Progress MS-35 (96P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
         }
       }
     }
