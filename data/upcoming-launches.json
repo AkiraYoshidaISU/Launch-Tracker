@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T12:28:50.516Z",
+  "generated_at": "2026-06-30T15:11:47.632Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -424,6 +424,27 @@
       }
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "South Korean ADD Solid-Fuel SLV",
+          "name": "South Korean ADD Solid-Fuel SLV"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
+        }
+      }
+    },
+    {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "net": "2026-07-31T00:00:00Z",
@@ -609,27 +630,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
-      "name": "Long March 5 | Chang'e 7",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Chang'e 7"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 5",
-          "name": "Long March 5"
-        }
-      },
-      "pad": {
-        "name": "101",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     }
