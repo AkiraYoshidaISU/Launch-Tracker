@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-06-30T06:52:29.882Z",
-  "source": "https://ll.thespacedevs.com/2.3.0/launches/upcoming/?limit=30&hide_recent_previous=true",
+  "generated_at": "2026-06-30T10:28:04.536Z",
+  "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Boost Mission",
-      "net": "2026-06-30T10:17:00Z",
-      "mission": {
-        "name": "Swift Boost Mission"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Pegasus XL",
-          "name": "Pegasus XL"
-        }
-      },
-      "pad": {
-        "name": "Kwajalein Atoll",
-        "location": {
-          "name": "Air launch to orbit",
-          "country_code": null
-        }
-      }
-    },
     {
       "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
       "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
@@ -41,7 +20,7 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": null
+          "country_code": "NZL"
         }
       }
     },
@@ -62,7 +41,7 @@
         "name": "Launch Area 94 (SLS-2 / 603)",
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": null
+          "country_code": "CHN"
         }
       }
     },
@@ -83,7 +62,7 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -104,7 +83,7 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -125,7 +104,7 @@
         "name": "Commercial LC-1",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": null
+          "country_code": "CHN"
         }
       }
     },
@@ -146,7 +125,7 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -167,7 +146,7 @@
         "name": "Launch Complex 9A",
         "location": {
           "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-          "country_code": null
+          "country_code": "CHN"
         }
       }
     },
@@ -188,7 +167,7 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -209,7 +188,7 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -230,7 +209,7 @@
         "name": "Commercial LC-2",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": null
+          "country_code": "CHN"
         }
       }
     },
@@ -251,7 +230,7 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -272,7 +251,7 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -293,7 +272,7 @@
         "name": "31/6",
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": null
+          "country_code": "KAZ"
         }
       }
     },
@@ -314,7 +293,7 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": null
+          "country_code": "NZL"
         }
       }
     },
@@ -335,7 +314,7 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": null
+          "country_code": "NZL"
         }
       }
     },
@@ -356,7 +335,7 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -377,7 +356,7 @@
         "name": "Satish Dhawan Space Centre Second Launch Pad",
         "location": {
           "name": "Satish Dhawan Space Centre, India",
-          "country_code": null
+          "country_code": "IND"
         }
       }
     },
@@ -398,7 +377,7 @@
         "name": "Yoshinobu Launch Complex LP-2",
         "location": {
           "name": "Tanegashima Space Center, Japan",
-          "country_code": null
+          "country_code": "JPN"
         }
       }
     },
@@ -419,7 +398,7 @@
         "name": "Haiyang offshore launch location",
         "location": {
           "name": "Haiyang Oriental Spaceport",
-          "country_code": null
+          "country_code": "CHN"
         }
       }
     },
@@ -440,7 +419,7 @@
         "name": "Orbital Launch Pad",
         "location": {
           "name": "Andøya Spaceport",
-          "country_code": null
+          "country_code": "NOR"
         }
       }
     },
@@ -461,7 +440,7 @@
         "name": "Orbital Launch Pad 2",
         "location": {
           "name": "SpaceX Starbase, TX, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -482,7 +461,7 @@
         "name": "Yoshinobu Launch Complex LP-2",
         "location": {
           "name": "Tanegashima Space Center, Japan",
-          "country_code": null
+          "country_code": "JPN"
         }
       }
     },
@@ -503,7 +482,7 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": null
+          "country_code": "NZL"
         }
       }
     },
@@ -524,7 +503,7 @@
         "name": "Ariane Launch Area 4",
         "location": {
           "name": "Guiana Space Centre, French Guiana",
-          "country_code": null
+          "country_code": "GUF"
         }
       }
     },
@@ -545,7 +524,7 @@
         "name": "Launch Complex 39A",
         "location": {
           "name": "Kennedy Space Center, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -566,7 +545,7 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -587,7 +566,7 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -608,7 +587,7 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": null
+          "country_code": "USA"
         }
       }
     },
@@ -629,7 +608,28 @@
         "name": "101",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": null
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-09T16:10:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
