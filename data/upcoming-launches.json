@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-01T08:57:40.045Z",
+  "generated_at": "2026-07-01T12:06:49.594Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
-      "name": "Pegasus XL | Swift Boost Mission",
-      "net": "2026-07-01T09:43:00Z",
-      "mission": {
-        "name": "Swift Boost Mission"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Pegasus XL",
-          "name": "Pegasus XL"
-        }
-      },
-      "pad": {
-        "name": "Kwajalein Atoll",
-        "location": {
-          "name": "Air launch to orbit",
-          "country_code": "???"
-        }
-      }
-    },
     {
       "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
       "name": "Long March 4C | Unknown Payload",
@@ -84,6 +63,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "net": "2026-07-02T09:09:00Z",
+      "mission": {
+        "name": "Swift Boost Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
         }
       }
     },
