@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T12:06:49.594Z",
+  "generated_at": "2026-07-01T15:17:33.098Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -508,27 +508,6 @@
       }
     },
     {
-      "id": "0d6ad64c-3aed-4041-b095-e1d951bc6d29",
-      "name": "Electron | Aspera",
-      "net": "2026-08-15T00:00:00Z",
-      "mission": {
-        "name": "Aspera"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 62 | MTG-I2",
       "net": "2026-08-27T00:00:00Z",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "9d402fb6-9115-424d-b6f0-bd3b13ee310e",
+      "name": "Long March 5 | Chang'e 7",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Chang'e 7"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 5",
+          "name": "Long March 5"
+        }
+      },
+      "pad": {
+        "name": "101",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     }
