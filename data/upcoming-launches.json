@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T15:17:33.098Z",
+  "generated_at": "2026-07-01T17:26:20.076Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-46",
-      "net": "2026-07-02T02:57:00Z",
+      "net": "2026-07-02T02:58:19Z",
       "mission": {
         "name": "Starlink Group 17-46"
       },
@@ -109,27 +109,6 @@
       }
     },
     {
-      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-50",
-      "net": "2026-07-03T11:20:00Z",
-      "mission": {
-        "name": "Starlink Group 10-50"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "9e0f6efb-4742-4ba3-9fd4-4ea218576c71",
       "name": "Long March 6A | Unknown Payload",
       "net": "2026-07-04T09:31:00Z",
@@ -147,6 +126,27 @@
         "location": {
           "name": "Taiyuan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-50",
+      "net": "2026-07-05T10:36:00Z",
+      "mission": {
+        "name": "Starlink Group 10-50"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
