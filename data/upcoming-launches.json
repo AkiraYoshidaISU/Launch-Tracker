@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-01T22:44:50.766Z",
+  "generated_at": "2026-07-02T00:01:53.235Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "2bedbf8c-8df2-4e24-8397-8c2a08fab581",
-      "name": "Long March 4C | Unknown Payload",
-      "net": "2026-07-01T23:45:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 4C",
-          "name": "Long March 4C"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 94 (SLS-2 / 603)",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "491122a3-3eff-42db-aff3-424b3431fc0b",
       "name": "Falcon 9 Block 5 | Starlink Group 17-46",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-09T16:10:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
