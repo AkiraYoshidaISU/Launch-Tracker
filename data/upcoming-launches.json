@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:04:17.923Z",
+  "generated_at": "2026-07-02T13:14:23.863Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -319,6 +319,27 @@
       }
     },
     {
+      "id": "f596ad48-881e-47d6-806d-113c6dd97427",
+      "name": "Pegasus XL | Swift Boost Mission",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Swift Boost Mission"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pegasus XL",
+          "name": "Pegasus XL"
+        }
+      },
+      "pad": {
+        "name": "Kwajalein Atoll",
+        "location": {
+          "name": "Air launch to orbit",
+          "country_code": "???"
+        }
+      }
+    },
+    {
       "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
       "name": "Smart Dragon 3 | Unknown Payload",
       "net": "2026-07-31T00:00:00Z",
@@ -609,27 +630,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Crew-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     }
