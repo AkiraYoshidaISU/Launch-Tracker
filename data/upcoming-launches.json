@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:25:26.601Z",
+  "generated_at": "2026-07-03T14:38:15.586Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -25,27 +25,6 @@
       }
     },
     {
-      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
-      "name": "Long March 8A | SpaceSail Polar Group TBD",
-      "net": "2026-07-05T00:00:00Z",
-      "mission": {
-        "name": "SpaceSail Polar Group TBD"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8A",
-          "name": "Long March 8A"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "1ef27ca1-af91-48bb-b934-3da5abd9f711",
       "name": "Falcon 9 Block 5 | Starlink Group 10-50",
       "net": "2026-07-05T10:36:00Z",
@@ -63,6 +42,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
+      "name": "Long March 8A | SpaceSail Polar Group TBD",
+      "net": "2026-07-05T13:40:00Z",
+      "mission": {
+        "name": "SpaceSail Polar Group TBD"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 8A",
+          "name": "Long March 8A"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -111,7 +111,7 @@
     {
       "id": "1e79a5e9-c02c-470f-882f-884120100fef",
       "name": "Long March 10B | Demo Flight",
-      "net": "2026-07-10T05:00:00Z",
+      "net": "2026-07-10T05:20:00Z",
       "mission": {
         "name": "Demo Flight"
       },
@@ -147,6 +147,48 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "net": "2026-07-12T02:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Gravity-1",
+          "name": "Gravity-1"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "name": "Vikram-I | Demo Flight",
+      "net": "2026-07-12T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vikram-I",
+          "name": "Vikram-I"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre First Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
         }
       }
     },
@@ -210,6 +252,48 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
+      "name": "Long March 7A | Unknown Payload",
+      "net": "2026-07-17T11:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 7A",
+          "name": "Long March 7A"
+        }
+      },
+      "pad": {
+        "name": "201",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "5421e43a-1623-40ac-9dac-201075064e24",
+      "name": "Long March 3B/E | Unknown Payload",
+      "net": "2026-07-23T11:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 3B/E",
+          "name": "Long March 3B/E"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 2 (LC-2)",
+        "location": {
+          "name": "Xichang Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -319,37 +403,16 @@
       }
     },
     {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Smart Dragon 3",
-          "name": "Smart Dragon 3"
-        }
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "South Korean ADD Solid-Fuel SLV | Demo Flight",
+      "name": "Mir | Demo Flight",
       "net": "2026-07-31T00:00:00Z",
       "mission": {
         "name": "Demo Flight"
       },
       "rocket": {
         "configuration": {
-          "full_name": "South Korean ADD Solid-Fuel SLV",
-          "name": "South Korean ADD Solid-Fuel SLV"
+          "full_name": "Mir",
+          "name": "Mir"
         }
       },
       "pad": {
@@ -399,27 +462,6 @@
         "location": {
           "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "name": "Vikram-I | Demo Flight",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vikram-I",
-          "name": "Vikram-I"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre First Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -588,48 +630,6 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-      "name": "Vega-C | Sentinel-3C & FLEX",
-      "net": "2026-09-11T00:00:00Z",
-      "mission": {
-        "name": "Sentinel-3C & FLEX"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vega-C",
-          "name": "Vega-C"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 1 (ELV)",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Crew-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     }
