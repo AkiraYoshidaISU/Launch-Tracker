@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-05T12:18:41.409Z",
+  "generated_at": "2026-07-05T14:14:46.995Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "888e0de3-ce4d-4daf-8140-bb0d3a4c8245",
-      "name": "Long March 8A | SpaceSail Polar Group TBD",
-      "net": "2026-07-05T13:40:00Z",
-      "mission": {
-        "name": "SpaceSail Polar Group TBD"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8A",
-          "name": "Long March 8A"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
       "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Crew-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
