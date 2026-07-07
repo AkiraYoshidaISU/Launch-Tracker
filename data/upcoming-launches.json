@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-07T04:30:27.620Z",
+  "generated_at": "2026-07-07T08:16:07.022Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a6db1e67-5860-47c9-a674-adc0f35b62e0",
-      "name": "Falcon 9 Block 5 | Transporter 17 (Dedicated SSO Rideshare)",
-      "net": "2026-07-07T07:10:00Z",
-      "mission": {
-        "name": "Transporter 17 (Dedicated SSO Rideshare)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "62d4cd48-ed28-418b-b58c-526781a50a39",
       "name": "Falcon 9 Block 5 | Starlink Group 10-42",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Crew-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
