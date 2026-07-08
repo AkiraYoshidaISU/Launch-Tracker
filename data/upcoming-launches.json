@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:57:21.706Z",
+  "generated_at": "2026-07-08T05:19:59.734Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -550,6 +550,27 @@
       }
     },
     {
+      "id": "91b13c6c-4525-496d-997b-3521bb6a4cd8",
+      "name": "RFA One | Maiden Flight",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Maiden Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "RFA One",
+          "name": "RFA One"
+        }
+      },
+      "pad": {
+        "name": "Launch Pad Fredo",
+        "location": {
+          "name": "SaxaVord Spaceport",
+          "country_code": "GBR"
+        }
+      }
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
       "net": "2026-09-09T16:10:00Z",
@@ -606,27 +627,6 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "O3b mPower 11-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
