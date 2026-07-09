@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-09T12:18:33.658Z",
+  "generated_at": "2026-07-09T15:39:37.746Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "1e79a5e9-c02c-470f-882f-884120100fef",
       "name": "Long March 10B | Demo Flight",
-      "net": "2026-07-10T05:20:00Z",
+      "net": "2026-07-10T04:10:00Z",
       "mission": {
         "name": "Demo Flight"
       },
