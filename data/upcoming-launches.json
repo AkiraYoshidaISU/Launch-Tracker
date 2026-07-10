@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-10T03:33:37.130Z",
+  "generated_at": "2026-07-10T07:28:19.719Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "1e79a5e9-c02c-470f-882f-884120100fef",
-      "name": "Long March 10B | Demo Flight",
-      "net": "2026-07-10T04:10:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 10B",
-          "name": "Long March 10B"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-2",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
       "name": "Falcon 9 Block 5 | Starlink Group 17-48",
@@ -42,48 +21,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Gravity-1 | Unknown Payload",
-      "net": "2026-07-12T02:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Gravity-1",
-          "name": "Gravity-1"
-        }
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
-      "name": "Vikram-I | Demo Flight",
-      "net": "2026-07-12T05:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vikram-I",
-          "name": "Vikram-I"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre First Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -235,6 +172,27 @@
       }
     },
     {
+      "id": "10fa7952-f00b-4292-80a2-4207e208844e",
+      "name": "Vikram-I | Demo Flight",
+      "net": "2026-07-18T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vikram-I",
+          "name": "Vikram-I"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre First Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
+        }
+      }
+    },
+    {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
       "name": "Long March 3B/E | Unknown Payload",
       "net": "2026-07-23T11:00:00Z",
@@ -336,6 +294,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Gravity-1",
+          "name": "Gravity-1"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
         }
       }
     },
@@ -627,6 +606,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
+      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "O3b mPower 11-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
