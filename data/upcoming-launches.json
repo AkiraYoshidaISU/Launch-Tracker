@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T13:05:54.918Z",
+  "generated_at": "2026-07-10T15:43:12.582Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -361,9 +361,30 @@
       }
     },
     {
+      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
+      "name": "Soyuz 2.1b | 16 x Rassvet-3",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "16 x Rassvet-3"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
+        }
+      }
+    },
+    {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
-      "net": "2026-07-31T00:00:00Z",
+      "net": "2026-08-06T00:00:00Z",
       "mission": {
         "name": "Onward and Upward"
       },
@@ -550,6 +571,27 @@
       }
     },
     {
+      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
+      "name": "Zhuque-3 | Flight 2",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Flight 2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Zhuque-3",
+          "name": "Zhuque-3"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 96B",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
       "net": "2026-09-09T16:10:00Z",
@@ -588,48 +630,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Crew-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "O3b mPower 11-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     }
