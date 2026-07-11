@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-11T01:55:43.513Z",
+  "generated_at": "2026-07-11T04:59:04.902Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "135fb199-a39e-48cc-ba27-0aecd96ba9f8",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-48",
-      "net": "2026-07-11T03:01:57Z",
-      "mission": {
-        "name": "Starlink Group 17-48"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "e09f254f-18bc-4985-963e-6075fa3d7a1c",
       "name": "Falcon 9 Block 5 | Starlink Group 15-14",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-09T16:10:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
