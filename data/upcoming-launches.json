@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T18:26:40.903Z",
+  "generated_at": "2026-07-13T19:56:28.086Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
       "name": "Soyuz 2.1a | Soyuz MS-29",
-      "net": "2026-07-14T14:47:50Z",
+      "net": "2026-07-14T14:47:43Z",
       "mission": {
         "name": "Soyuz MS-29"
       },
