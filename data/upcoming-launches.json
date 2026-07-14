@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-14T14:43:00.792Z",
+  "generated_at": "2026-07-14T16:08:50.112Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
-      "name": "Soyuz 2.1a | Soyuz MS-29",
-      "net": "2026-07-14T14:47:43Z",
-      "mission": {
-        "name": "Soyuz MS-29"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1a",
-          "name": "Soyuz 2.1a"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
-        }
-      }
-    },
     {
       "id": "d9adedc4-8fa1-4a36-84f9-43b8893a6865",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer E",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Crew-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
