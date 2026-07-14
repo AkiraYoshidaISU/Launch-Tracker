@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-14T07:05:30.997Z",
+  "generated_at": "2026-07-14T09:21:41.943Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "9999a3a3-b15d-4ee3-b70f-acf00d10d912",
-      "name": "Falcon 9 Block 5 | Starlink Group 10-45",
-      "net": "2026-07-14T09:10:12Z",
-      "mission": {
-        "name": "Starlink Group 10-45"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "a556b963-0f36-4660-95a8-fdffdba653e2",
       "name": "Soyuz 2.1a | Soyuz MS-29",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
+      "name": "Vega-C | Sentinel-3C & FLEX",
+      "net": "2026-09-11T00:00:00Z",
+      "mission": {
+        "name": "Sentinel-3C & FLEX"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vega-C",
+          "name": "Vega-C"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 1 (ELV)",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     }
