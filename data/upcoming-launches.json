@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T03:58:05.099Z",
+  "generated_at": "2026-07-16T06:18:00.469Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -126,6 +126,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
+      "name": "Gravity-1 | Unknown Payload",
+      "net": "2026-07-22T02:50:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Gravity-1",
+          "name": "Gravity-1"
+        }
+      },
+      "pad": {
+        "name": "Yellow Sea (launch location 5)",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
         }
       }
     },
@@ -273,27 +294,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Gravity-1 | Unknown Payload",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Gravity-1",
-          "name": "Gravity-1"
-        }
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
         }
       }
     },
