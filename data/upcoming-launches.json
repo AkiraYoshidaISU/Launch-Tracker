@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:14:59.205Z",
+  "generated_at": "2026-07-16T14:30:48.130Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -42,27 +42,6 @@
         "location": {
           "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
-      "name": "Long March 7A | Unknown Payload",
-      "net": "2026-07-17T11:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 7A",
-          "name": "Long March 7A"
-        }
-      },
-      "pad": {
-        "name": "201",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     },
@@ -319,6 +298,27 @@
       }
     },
     {
+      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
+      "name": "Long March 7A | Unknown Payload",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 7A",
+          "name": "Long March 7A"
+        }
+      },
+      "pad": {
+        "name": "201",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "Mir | Demo Flight",
       "net": "2026-07-31T00:00:00Z",
@@ -350,6 +350,27 @@
         "configuration": {
           "full_name": "Soyuz 2.1b",
           "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
+        }
+      }
+    },
+    {
+      "id": "458e2e52-87b0-4707-96d8-6899f92e53ee",
+      "name": "Soyuz 2.1b/Fregat | Glonass-K1 No. 19",
+      "net": "2026-07-31T00:00:00Z",
+      "mission": {
+        "name": "Glonass-K1 No. 19"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b Fregat",
+          "name": "Soyuz 2.1b/Fregat"
         }
       },
       "pad": {
@@ -609,27 +630,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Crew-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     }
