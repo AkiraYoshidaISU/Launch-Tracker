@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T04:07:15.997Z",
+  "generated_at": "2026-07-17T06:34:51.024Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -90,7 +90,7 @@
     {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
       "name": "Long March 3B/E | Unknown Payload",
-      "net": "2026-07-23T11:00:00Z",
+      "net": "2026-07-23T12:00:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -104,6 +104,27 @@
         "name": "Launch Complex 2 (LC-2)",
         "location": {
           "name": "Xichang Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "fa42624c-1e30-4b4b-a06b-59b6153bc4e5",
+      "name": "Kinetica 1 | Unknown Payload",
+      "net": "2026-07-24T02:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kinetica 1",
+          "name": "Kinetica 1"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 130",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -609,27 +630,6 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-      "name": "Vega-C | Sentinel-3C & FLEX",
-      "net": "2026-09-11T00:00:00Z",
-      "mission": {
-        "name": "Sentinel-3C & FLEX"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vega-C",
-          "name": "Vega-C"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 1 (ELV)",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     }
