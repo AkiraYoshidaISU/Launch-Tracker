@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:51:37.754Z",
+  "generated_at": "2026-07-17T23:44:17.132Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -487,27 +487,6 @@
       }
     },
     {
-      "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
-      "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Dragon CRS-2 SpX-35"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3",
       "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)",
       "net": "2026-08-31T00:00:00Z",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Crew-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
