@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:55:54.437Z",
+  "generated_at": "2026-07-18T14:44:32.467Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -252,27 +252,6 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "GISAT-1A (EOS-05)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -630,6 +609,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
+      "name": "Nuri | NeonSat-2 to 6",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "NeonSat-2 to 6"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "KSLV-2 Nuri",
+          "name": "Nuri"
+        }
+      },
+      "pad": {
+        "name": "LC-2",
+        "location": {
+          "name": "Naro Space Center, South Korea",
+          "country_code": "KOR"
         }
       }
     }
