@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T22:14:39.568Z",
+  "generated_at": "2026-07-19T23:25:29.941Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -20,27 +20,6 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "name": "Starship | Flight 13",
-      "net": "2026-07-20T22:45:00Z",
-      "mission": {
-        "name": "Flight 13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
         }
       }
@@ -105,6 +84,27 @@
         "location": {
           "name": "Xichang Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
+      "name": "Starship | Flight 13",
+      "net": "2026-07-23T22:45:00Z",
+      "mission": {
+        "name": "Flight 13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
         }
       }
     },
