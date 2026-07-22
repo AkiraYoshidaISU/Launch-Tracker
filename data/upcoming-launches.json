@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:52:56.905Z",
+  "generated_at": "2026-07-22T01:54:42.970Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -252,27 +252,6 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
-        }
-      }
-    },
-    {
-      "id": "aafe107e-46d8-420c-bcb9-192069d80893",
-      "name": "Soyuz 2.1b | 16 x Rassvet-3",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "16 x Rassvet-3"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
         }
       }
     },
@@ -630,6 +609,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
+      "name": "Nuri | NeonSat-2 to 6",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "NeonSat-2 to 6"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "KSLV-2 Nuri",
+          "name": "Nuri"
+        }
+      },
+      "pad": {
+        "name": "LC-2",
+        "location": {
+          "name": "Naro Space Center, South Korea",
+          "country_code": "KOR"
         }
       }
     }
