@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-22T01:54:42.970Z",
+  "generated_at": "2026-07-22T05:13:07.706Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "d8eb4b68-5307-4b3b-b585-5598958defc2",
-      "name": "Gravity-1 | Unknown Payload",
-      "net": "2026-07-22T02:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Gravity-1",
-          "name": "Gravity-1"
-        }
-      },
-      "pad": {
-        "name": "Yellow Sea (launch location 5)",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "5421e43a-1623-40ac-9dac-201075064e24",
       "name": "Long March 3B/E | Unknown Payload",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Naro Space Center, South Korea",
           "country_code": "KOR"
+        }
+      }
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LV-01)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vulcan VC6L",
+          "name": "Vulcan VC6L"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
