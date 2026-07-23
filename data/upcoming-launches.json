@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-23T10:37:56.341Z",
+  "generated_at": "2026-07-23T12:19:30.923Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "5421e43a-1623-40ac-9dac-201075064e24",
-      "name": "Long March 3B/E | Unknown Payload",
-      "net": "2026-07-23T12:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 3B/E",
-          "name": "Long March 3B/E"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 2 (LC-2)",
-        "location": {
-          "name": "Xichang Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
       "name": "Starship | Flight 13",
@@ -125,6 +104,27 @@
         "name": "201",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "394d2745-610b-409e-b4ea-2071a35f8668",
+      "name": "Long March 6A | Unknown Payload",
+      "net": "2026-07-30T01:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 6A",
+          "name": "Long March 6A"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": {
+          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
