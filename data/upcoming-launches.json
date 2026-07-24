@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-24T21:34:10.084Z",
+  "generated_at": "2026-07-24T22:54:40.280Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "ac897b9f-44d2-4ff4-8416-1a0a076e98a2",
-      "name": "Starship | Flight 13",
-      "net": "2026-07-24T22:45:00Z",
-      "mission": {
-        "name": "Flight 13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "5b2f05d7-9052-49fb-9bd7-2a05d4910576",
       "name": "Falcon 9 Block 5 | Starlink Group 17-51",
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "dca8749f-1552-485a-8061-f1ad79055b8d",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer C"
       },
       "rocket": {
         "configuration": {
