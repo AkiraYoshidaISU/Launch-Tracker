@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-27T12:13:12.549Z",
+  "generated_at": "2026-07-27T15:20:55.621Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-52",
-      "net": "2026-07-29T02:00:00Z",
-      "mission": {
-        "name": "Starlink Group 17-52"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
       "name": "Long March 7A | Unknown Payload",
@@ -63,6 +42,27 @@
         "location": {
           "name": "Taiyuan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
+      "name": "Falcon 9 Block 5 | Starlink Group 17-52",
+      "net": "2026-07-30T02:00:00Z",
+      "mission": {
+        "name": "Starlink Group 17-52"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -174,7 +174,7 @@
     {
       "id": "0448d030-5175-4c1f-bd0b-4f3f87072921",
       "name": "Falcon 9 Block 5 | Starlink Group 17-53",
-      "net": "2026-08-01T14:00:00Z",
+      "net": "2026-08-02T14:00:00Z",
       "mission": {
         "name": "Starlink Group 17-53"
       },
