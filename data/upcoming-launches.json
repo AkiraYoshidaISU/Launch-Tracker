@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T10:37:58.193Z",
+  "generated_at": "2026-07-28T12:49:02.172Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -214,6 +214,27 @@
       }
     },
     {
+      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
+      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
+      "net": "2026-08-05T07:42:00Z",
+      "mission": {
+        "name": "BlueBird Block 2 #6-8"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
       "net": "2026-08-06T00:00:00Z",
@@ -419,27 +440,6 @@
         "name": "Launch Complex 39A",
         "location": {
           "name": "Kennedy Space Center, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "BlueBird Block 2 #6-8"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
