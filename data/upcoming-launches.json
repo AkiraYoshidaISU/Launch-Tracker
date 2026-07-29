@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-29T11:00:18.162Z",
+  "generated_at": "2026-07-29T13:04:24.620Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "beac6ac1-97dd-4eb2-912c-8b4d4d15cd4e",
-      "name": "Long March 7A | Unknown Payload",
-      "net": "2026-07-29T11:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 7A",
-          "name": "Long March 7A"
-        }
-      },
-      "pad": {
-        "name": "201",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "394d2745-610b-409e-b4ea-2071a35f8668",
       "name": "Long March 6A | Unknown Payload",
@@ -592,27 +571,6 @@
       }
     },
     {
-      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
-      "name": "Nuri | NeonSat-2 to 6",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "NeonSat-2 to 6"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "KSLV-2 Nuri",
-          "name": "Nuri"
-        }
-      },
-      "pad": {
-        "name": "LC-2",
-        "location": {
-          "name": "Naro Space Center, South Korea",
-          "country_code": "KOR"
-        }
-      }
-    },
-    {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
       "net": "2026-09-30T00:00:00Z",
@@ -629,6 +587,48 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "dca8749f-1552-485a-8061-f1ad79055b8d",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer C"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
