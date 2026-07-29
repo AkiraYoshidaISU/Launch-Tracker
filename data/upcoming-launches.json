@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T05:14:33.800Z",
+  "generated_at": "2026-07-29T08:02:37.231Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
       "name": "Falcon 9 Block 5 | NROL-95",
-      "net": "2026-07-30T07:09:00Z",
+      "net": "2026-07-30T07:09:01Z",
       "mission": {
         "name": "NROL-95"
       },
@@ -63,27 +63,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "Mir | Demo Flight",
-      "net": "2026-07-31T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Mir",
-          "name": "Mir"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
         }
       }
     },
@@ -126,6 +105,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "net": "2026-08-04T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Smart Dragon 3",
+          "name": "Smart Dragon 3"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
         }
       }
     },
@@ -466,6 +466,27 @@
       }
     },
     {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "Mir | Demo Flight",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Mir",
+          "name": "Mir"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
+        }
+      }
+    },
+    {
       "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
       "name": "Zhuque-3 | Flight 2",
       "net": "2026-08-31T00:00:00Z",
@@ -608,27 +629,6 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
