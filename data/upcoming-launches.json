@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T13:41:04.195Z",
+  "generated_at": "2026-07-30T15:45:55.996Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -468,7 +468,7 @@
     {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "name": "Vega-C | Sentinel-3C & FLEX",
-      "net": "2026-09-11T00:00:00Z",
+      "net": "2026-09-15T01:21:07Z",
       "mission": {
         "name": "Sentinel-3C & FLEX"
       },
