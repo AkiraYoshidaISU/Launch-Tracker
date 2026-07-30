@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-30T04:51:08.820Z",
+  "generated_at": "2026-07-30T07:29:03.996Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
-      "name": "Falcon 9 Block 5 | NROL-95",
-      "net": "2026-07-30T07:09:01Z",
-      "mission": {
-        "name": "NROL-95"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
       "name": "Falcon 9 Block 5 | Starlink Group 17-52",
@@ -42,27 +21,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
-      "name": "Smart Dragon 3 | Unknown Payload",
-      "net": "2026-08-04T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Smart Dragon 3",
-          "name": "Smart Dragon 3"
-        }
-      },
-      "pad": {
-        "name": "Haiyang offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
         }
       }
     },
@@ -109,11 +67,32 @@
       }
     },
     {
+      "id": "d46cab82-dcf5-4d70-b698-d7bead7f638c",
+      "name": "Smart Dragon 3 | Unknown Payload",
+      "net": "2026-08-05T02:35:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Smart Dragon 3",
+          "name": "Smart Dragon 3"
+        }
+      },
+      "pad": {
+        "name": "Haiyang offshore launch location",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "56a85c82-ea71-449b-828c-b583f6f4a18b",
-      "name": "Falcon 9 Block 5 | BlueBird Block 2 #6-8",
+      "name": "Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)",
       "net": "2026-08-05T07:42:00Z",
       "mission": {
-        "name": "BlueBird Block 2 #6-8"
+        "name": "BlueBird 11-13 (Block 2 #6-8)"
       },
       "rocket": {
         "configuration": {
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A"
       },
       "rocket": {
         "configuration": {
