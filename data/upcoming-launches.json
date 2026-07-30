@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-07-29T23:55:03.826Z",
+  "generated_at": "2026-07-30T01:45:20.210Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "394d2745-610b-409e-b4ea-2071a35f8668",
-      "name": "Long March 6A | Unknown Payload",
-      "net": "2026-07-30T01:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 6A",
-          "name": "Long March 6A"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 9A",
-        "location": {
-          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "24675e3d-2458-48a3-8c70-5196e44d4dc3",
       "name": "Falcon 9 Block 5 | NROL-95",
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer C"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "fcbc4550-e69e-4458-a9e6-4a5b6b6b15a5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer E",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer E"
       },
       "rocket": {
         "configuration": {
