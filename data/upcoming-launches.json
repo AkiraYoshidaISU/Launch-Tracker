@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-01T02:04:08.457Z",
+  "generated_at": "2026-08-01T05:38:55.317Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e7e55b53-6f69-4c22-9fc5-df00df653a3f",
-      "name": "Falcon 9 Block 5 | Starlink Group 17-52",
-      "net": "2026-08-01T03:08:43Z",
-      "mission": {
-        "name": "Starlink Group 17-52"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "12b9454b-d48b-4fd5-9c11-17c18f45dafe",
       "name": "Long March 8A | Unknown Payload",
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
