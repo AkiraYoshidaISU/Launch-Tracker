@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:56:16.054Z",
+  "generated_at": "2026-08-03T18:46:16.605Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -237,7 +237,7 @@
     {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 62 | MTG-I2",
-      "net": "2026-08-27T00:00:00Z",
+      "net": "2026-08-27T20:10:00Z",
       "mission": {
         "name": "MTG-I2"
       },
