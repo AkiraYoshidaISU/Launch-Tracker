@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:56:58.859Z",
+  "generated_at": "2026-08-05T02:10:11.572Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -69,7 +69,7 @@
     {
       "id": "cff704ab-8098-4f65-899e-50adaf908e59",
       "name": "Long March 7A | Unknown Payload",
-      "net": "2026-08-09T11:00:00Z",
+      "net": "2026-08-10T12:00:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -319,6 +319,27 @@
       }
     },
     {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "name": "Long March 12A | Flight 2",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Flight 2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12A",
+          "name": "Long March 12A"
+        }
+      },
+      "pad": {
+        "name": "Long March 12 series Pad",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "Mir | Demo Flight",
       "net": "2026-08-31T00:00:00Z",
@@ -336,6 +357,27 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "a927b2f9-f9a5-4196-9abb-2e275e4a6b96",
+      "name": "Pallas-1 | Demo Flight",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Pallas-1",
+          "name": "Pallas-1"
+        }
+      },
+      "pad": {
+        "name": "Pallas-1 Launch Pad",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -585,48 +627,6 @@
       },
       "pad": {
         "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "c5783e2b-d458-4b99-9936-4043c236190b",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer F",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer F"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "875ba957-be5f-42bd-8a6e-ed98254f572a",
-      "name": "Firefly Alpha Block 2 | ConnectedCosmos Launch 1",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "ConnectedCosmos Launch 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Firefly Alpha Block 2",
-          "name": "Firefly Alpha Block 2"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 2W",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
