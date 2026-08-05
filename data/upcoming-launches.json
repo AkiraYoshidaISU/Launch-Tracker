@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T08:00:51.494Z",
+  "generated_at": "2026-08-05T10:57:17.049Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -63,6 +63,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
+      "name": "Zhuque-3 | Flight 2",
+      "net": "2026-08-10T23:45:00Z",
+      "mission": {
+        "name": "Flight 2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Zhuque-3",
+          "name": "Zhuque-3"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 96B",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -357,27 +378,6 @@
         "location": {
           "name": "Andøya Spaceport",
           "country_code": "NOR"
-        }
-      }
-    },
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "name": "Zhuque-3 | Flight 2",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Flight 2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Zhuque-3",
-          "name": "Zhuque-3"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 96B",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     },
