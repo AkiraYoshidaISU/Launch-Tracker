@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:51:58.366Z",
+  "generated_at": "2026-08-06T15:08:10.412Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -256,6 +256,27 @@
       }
     },
     {
+      "id": "57280454-470e-4c5d-8de1-1bbd0ea41b49",
+      "name": "Electron | The Lightning God Defends (iQPS Launch 8)",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "The Lightning God Defends (iQPS Launch 8)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
       "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
       "name": "H3-22 | Michibiki 7 (QZS-7)",
       "net": "2026-08-31T00:00:00Z",
@@ -466,6 +487,48 @@
       }
     },
     {
+      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
+      "name": "Electron | BlackSky Gen-3 5",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "BlackSky Gen-3 5"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "548df42c-ae26-4cc9-921a-f0042941911a",
+      "name": "Electron | BlackSky Gen-3 6",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "BlackSky Gen-3 6"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
       "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
       "net": "2026-09-30T00:00:00Z",
@@ -564,69 +627,6 @@
       },
       "pad": {
         "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "c5783e2b-d458-4b99-9936-4043c236190b",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer F",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer F"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "875ba957-be5f-42bd-8a6e-ed98254f572a",
-      "name": "Firefly Alpha Block 2 | ConnectedCosmos Launch 1",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "ConnectedCosmos Launch 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Firefly Alpha Block 2",
-          "name": "Firefly Alpha Block 2"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 2W",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d1a3807e-f304-467c-a095-e08b86924347",
-      "name": "Firefly Alpha Block 2 | QuickSounder",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "QuickSounder"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Firefly Alpha Block 2",
-          "name": "Firefly Alpha Block 2"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 2W",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
