@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-06T07:41:37.710Z",
+  "generated_at": "2026-08-06T10:31:03.417Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "8b7e748c-6ed5-4681-a898-827b4a23b8d7",
-      "name": "Electron | The Grain Goddess Provides (iQPS Launch 7)",
-      "net": "2026-08-06T09:00:00Z",
-      "mission": {
-        "name": "The Grain Goddess Provides (iQPS Launch 7)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1A",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "e4316d4c-9eb8-4a18-9b0d-4307c3970ef6",
       "name": "Falcon 9 Block 5 | Starlink Group 17-38",
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "ConnectedCosmos Launch 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Firefly Alpha Block 2",
+          "name": "Firefly Alpha Block 2"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 2W",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d1a3807e-f304-467c-a095-e08b86924347",
+      "name": "Firefly Alpha Block 2 | QuickSounder",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "QuickSounder"
       },
       "rocket": {
         "configuration": {
