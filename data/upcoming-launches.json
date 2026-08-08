@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:33:06.797Z",
+  "generated_at": "2026-08-08T05:35:55.375Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -21,27 +21,6 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
-      "name": "H3-22 | Michibiki 7 (QZS-7)",
-      "net": "2026-08-09T19:00:00Z",
-      "mission": {
-        "name": "Michibiki 7 (QZS-7)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "H3-22",
-          "name": "H3-22"
-        }
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": {
-          "name": "Tanegashima Space Center, Japan",
-          "country_code": "JPN"
         }
       }
     },
@@ -84,6 +63,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "b89ab080-66c3-4831-85a9-38d85da71d30",
+      "name": "H3-22 | Michibiki 7 (QZS-7)",
+      "net": "2026-08-10T19:00:00Z",
+      "mission": {
+        "name": "Michibiki 7 (QZS-7)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "H3-22",
+          "name": "H3-22"
+        }
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": {
+          "name": "Tanegashima Space Center, Japan",
+          "country_code": "JPN"
         }
       }
     },
