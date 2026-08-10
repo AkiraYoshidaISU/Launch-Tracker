@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:22:38.717Z",
+  "generated_at": "2026-08-10T18:11:14.713Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -21,27 +21,6 @@
         "location": {
           "name": "Tanegashima Space Center, Japan",
           "country_code": "JPN"
-        }
-      }
-    },
-    {
-      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
-      "name": "Zhuque-3 | Flight 2",
-      "net": "2026-08-10T23:45:00Z",
-      "mission": {
-        "name": "Flight 2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Zhuque-3",
-          "name": "Zhuque-3"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 96B",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
         }
       }
     },
@@ -167,6 +146,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "bbdc4d47-1de3-428e-9fe1-bbf45d9b1e04",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-39",
+      "net": "2026-08-20T15:19:00Z",
+      "mission": {
+        "name": "Starlink Group 10-39"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -403,6 +403,27 @@
       }
     },
     {
+      "id": "ef02e2cf-e617-4b38-a526-951ac9204b0a",
+      "name": "Zhuque-3 | Flight 2",
+      "net": "2026-08-31T00:00:00Z",
+      "mission": {
+        "name": "Flight 2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Zhuque-3",
+          "name": "Zhuque-3"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 96B",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
       "net": "2026-09-09T16:10:00Z",
@@ -597,27 +618,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer C"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "fcbc4550-e69e-4458-a9e6-4a5b6b6b15a5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer E",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer E"
       },
       "rocket": {
         "configuration": {
