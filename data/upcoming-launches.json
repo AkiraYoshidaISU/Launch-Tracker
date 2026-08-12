@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:24:16.678Z",
+  "generated_at": "2026-08-12T17:25:48.806Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -126,6 +126,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "ad501ebd-a357-4305-90c1-c46c6feb2ecf",
+      "name": "Falcon 9 Block 5 | Starlink Group 10-49",
+      "net": "2026-08-25T11:00:00Z",
+      "mission": {
+        "name": "Starlink Group 10-49"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
