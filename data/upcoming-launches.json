@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:25:48.806Z",
+  "generated_at": "2026-08-12T18:14:19.264Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "b0e7d1cc-24dd-4da4-bb60-b15b6791d08e",
       "name": "Long March 12 | Unknown Payload",
-      "net": "2026-08-17T02:00:00Z",
+      "net": "2026-08-16T04:10:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -62,6 +62,27 @@
         "name": "Commercial LC-2",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "cb6f4df1-c045-423b-904c-e63bf1ee5168",
+      "name": "Long March 2C | Unknown Payload",
+      "net": "2026-08-17T03:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2C",
+          "name": "Long March 2C"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 9",
+        "location": {
+          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -597,27 +618,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A"
       },
       "rocket": {
         "configuration": {
