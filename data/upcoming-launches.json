@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:47:20.861Z",
+  "generated_at": "2026-08-15T10:14:08.961Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -550,6 +550,27 @@
       }
     },
     {
+      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
+      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "IRNSS-1L (NVS-03)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
+        }
+      }
+    },
+    {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
       "name": "Starship | Flight 14",
       "net": "2026-09-30T00:00:00Z",
@@ -597,27 +618,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "6x HawkEye 360"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-      "name": "Electron | BlackSky Gen-3 5",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "BlackSky Gen-3 5"
       },
       "rocket": {
         "configuration": {
