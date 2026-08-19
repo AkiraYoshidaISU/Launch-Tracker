@@ -1,8 +1,29 @@
 {
-  "generated_at": "2026-08-19T21:17:49.510Z",
+  "generated_at": "2026-08-19T21:47:54.723Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
+    {
+      "id": "57280454-470e-4c5d-8de1-1bbd0ea41b49",
+      "name": "Electron | The Lightning God Defends (iQPS Launch 8)",
+      "net": "2026-08-20T13:00:00Z",
+      "mission": {
+        "name": "The Lightning God Defends (iQPS Launch 8)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
     {
       "id": "bbdc4d47-1de3-428e-9fe1-bbf45d9b1e04",
       "name": "Falcon 9 Block 5 | Starlink Group 10-39",
@@ -198,27 +219,6 @@
       "net": "2026-08-31T00:00:00Z",
       "mission": {
         "name": "StriX Launch 11"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "57280454-470e-4c5d-8de1-1bbd0ea41b49",
-      "name": "Electron | The Lightning God Defends (iQPS Launch 8)",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "The Lightning God Defends (iQPS Launch 8)"
       },
       "rocket": {
         "configuration": {
