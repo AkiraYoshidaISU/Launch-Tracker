@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T04:02:42.090Z",
+  "generated_at": "2026-08-22T04:57:24.380Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "6208f972-18ec-490f-bbe5-6f5c6cfcd48c",
       "name": "Falcon 9 Block 5 | Starlink Group 15-20",
-      "net": "2026-08-22T07:25:09Z",
+      "net": "2026-08-22T07:25:16Z",
       "mission": {
         "name": "Starlink Group 15-20"
       },
