@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:02:31.444Z",
+  "generated_at": "2026-08-24T11:50:41.804Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "ad501ebd-a357-4305-90c1-c46c6feb2ecf",
       "name": "Falcon 9 Block 5 | Starlink Group 10-49",
-      "net": "2026-08-25T05:49:00Z",
+      "net": "2026-08-25T09:33:17Z",
       "mission": {
         "name": "Starlink Group 10-49"
       },
@@ -189,27 +189,6 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "458e2e52-87b0-4707-96d8-6899f92e53ee",
-      "name": "Soyuz 2.1b/Fregat | Glonass-K1 No. 19",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Glonass-K1 No. 19"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b Fregat",
-          "name": "Soyuz 2.1b/Fregat"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
         }
       }
     },
@@ -618,6 +597,27 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A"
       },
       "rocket": {
         "configuration": {
