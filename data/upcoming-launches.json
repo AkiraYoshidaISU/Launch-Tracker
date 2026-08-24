@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:49:14.561Z",
+  "generated_at": "2026-08-24T02:18:18.019Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -130,48 +130,6 @@
       }
     },
     {
-      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
-      "name": "Electron | LOXSAT 1",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "LOXSAT 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
-      "name": "Electron | StriX Launch 11",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "StriX Launch 11"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
       "name": "Long March 12A | Flight 2",
       "net": "2026-08-31T00:00:00Z",
@@ -277,6 +235,27 @@
       }
     },
     {
+      "id": "9f5a4cb6-63f9-47e1-9512-b468bae2a8e6",
+      "name": "Electron | Owl Around The World (StriX Launch 11)",
+      "net": "2026-08-31T12:00:00Z",
+      "mission": {
+        "name": "Owl Around The World (StriX Launch 11)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
+        }
+      }
+    },
+    {
       "id": "63181269-b125-4c36-951c-c9bd9bbc4b55",
       "name": "Falcon 9 Block 5 | Starlink Group 15-23",
       "net": "2026-09-01T08:01:00Z",
@@ -378,6 +357,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "599ba2df-7483-4b2f-a083-2b5ddc06e069",
+      "name": "Electron | LOXSAT 1",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "LOXSAT 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
