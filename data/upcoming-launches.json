@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-26T09:32:38.015Z",
+  "generated_at": "2026-08-26T10:26:12.529Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "95653d52-bb77-4860-a815-dd7141778d17",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-22",
-      "net": "2026-08-26T09:35:11Z",
-      "mission": {
-        "name": "Starlink Group 15-22"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
       "name": "Ariane 62 | MTG-I2",
@@ -105,27 +84,6 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "Mir | Demo Flight",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Mir",
-          "name": "Mir"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
         }
       }
     },
@@ -630,6 +588,48 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
+        }
+      }
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-10-07T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-04)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
+      "name": "H3-24 | Martian Moon eXplorer (MMX)",
+      "net": "2026-10-19T19:41:03Z",
+      "mission": {
+        "name": "Martian Moon eXplorer (MMX)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "H3-24",
+          "name": "H3-24"
+        }
+      },
+      "pad": {
+        "name": "Yoshinobu Launch Complex LP-2",
+        "location": {
+          "name": "Tanegashima Space Center, Japan",
+          "country_code": "JPN"
         }
       }
     }
