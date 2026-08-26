@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:11:02.700Z",
+  "generated_at": "2026-08-26T18:10:27.170Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -174,7 +174,7 @@
     {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-09T16:10:00Z",
+      "net": "2026-09-09T16:15:03Z",
       "mission": {
         "name": "Progress MS-35 (96P)"
       },
