@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:53:51.759Z",
+  "generated_at": "2026-08-27T06:23:56.721Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -613,23 +613,23 @@
       }
     },
     {
-      "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-      "name": "H3-24 | Martian Moon eXplorer (MMX)",
-      "net": "2026-10-19T19:41:03Z",
+      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
+      "name": "Nuri | NeonSat-2 to 6",
+      "net": "2026-10-07T03:23:00Z",
       "mission": {
-        "name": "Martian Moon eXplorer (MMX)"
+        "name": "NeonSat-2 to 6"
       },
       "rocket": {
         "configuration": {
-          "full_name": "H3-24",
-          "name": "H3-24"
+          "full_name": "KSLV-2 Nuri",
+          "name": "Nuri"
         }
       },
       "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
+        "name": "LC-2",
         "location": {
-          "name": "Tanegashima Space Center, Japan",
-          "country_code": "JPN"
+          "name": "Naro Space Center, South Korea",
+          "country_code": "KOR"
         }
       }
     }
