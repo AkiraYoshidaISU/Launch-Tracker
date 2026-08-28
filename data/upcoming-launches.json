@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-27T17:43:50.551Z",
+  "generated_at": "2026-08-28T01:57:45.248Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a57aed97-b94f-42e1-905e-9421dbd96ac8",
-      "name": "Ariane 62 | MTG-I2",
-      "net": "2026-08-27T20:10:00Z",
-      "mission": {
-        "name": "MTG-I2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 62",
-          "name": "Ariane 62"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
     {
       "id": "521f3a1c-f977-4306-9b7f-495858719adf",
       "name": "Falcon Heavy | Nancy Grace Roman Space Telescope",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+      "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
+      "net": "2026-11-19T00:00:00Z",
+      "mission": {
+        "name": "MKA Kinosputnik, KOEN and others"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1a Fregat-M",
+          "name": "Soyuz 2.1a/Fregat-M"
+        }
+      },
+      "pad": {
+        "name": "Cosmodrome Site 1S",
+        "location": {
+          "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
+          "country_code": "RUS"
         }
       }
     }
