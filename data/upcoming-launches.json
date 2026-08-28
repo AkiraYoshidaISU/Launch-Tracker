@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:48:46.495Z",
+  "generated_at": "2026-08-28T23:19:54.870Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -21,27 +21,6 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Angara 1.2 | Kosmos (Unknown Payload)",
-      "net": "2026-08-31T00:00:00Z",
-      "mission": {
-        "name": "Kosmos (Unknown Payload)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Angara 1.2",
-          "name": "Angara 1.2"
-        }
-      },
-      "pad": {
-        "name": "35/1",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
         }
       }
     },
@@ -153,7 +132,7 @@
     {
       "id": "153ef8ef-b12b-43f4-a4bf-05b225c0cd37",
       "name": "Falcon 9 Block 5 | Starlink Group 15-24",
-      "net": "2026-09-05T11:13:00Z",
+      "net": "2026-09-06T10:59:00Z",
       "mission": {
         "name": "Starlink Group 15-24"
       },
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
           "country_code": "RUS"
+        }
+      }
+    },
+    {
+      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
+      "name": "Soyuz 2.1b | Progress MS-36 (97P)",
+      "net": "2026-11-24T05:03:00Z",
+      "mission": {
+        "name": "Progress MS-36 (97P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
         }
       }
     }
