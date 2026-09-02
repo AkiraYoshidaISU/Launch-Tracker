@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:11:16.113Z",
+  "generated_at": "2026-09-02T16:44:01.964Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -63,6 +63,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
+      "name": "Long March 2D/YZ-3 | Unknown Payload",
+      "net": "2026-09-09T09:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2D/YZ-3",
+          "name": "Long March 2D/YZ-3"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 94 (SLS-2 / 603)",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
-      "name": "HANBIT-Nano | InnoSat-0",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "InnoSat-0"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "HANBIT-Nano",
-          "name": "HANBIT-Nano"
-        }
-      },
-      "pad": {
-        "name": "HANBIT Pad",
-        "location": {
-          "name": "Alcântara Space Center, Federative Republic of Brazil",
-          "country_code": "BRA"
         }
       }
     }
