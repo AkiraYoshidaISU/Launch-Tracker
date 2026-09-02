@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T16:44:01.964Z",
+  "generated_at": "2026-09-02T19:34:30.673Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -110,10 +110,10 @@
     },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
-      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-2\")",
+      "name": "Falcon 9 Block 5 | USSF-153",
       "net": "2026-09-10T15:37:00Z",
       "mission": {
-        "name": "USSF-xxx (\"R-2\")"
+        "name": "USSF-153"
       },
       "rocket": {
         "configuration": {
