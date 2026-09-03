@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-03T19:58:51.899Z",
+  "generated_at": "2026-09-03T22:23:06.393Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-      "name": "GSLV Mk II | GISAT-1A (EOS-05)",
-      "net": "2026-09-03T21:25:00Z",
-      "mission": {
-        "name": "GISAT-1A (EOS-05)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
-        }
-      }
-    },
     {
       "id": "1b23eb18-e06e-4058-9b42-e95ca0980511",
       "name": "Spectrum | Onward and Upward",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
+      "name": "HANBIT-Nano | InnoSat-0",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "InnoSat-0"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "HANBIT-Nano",
+          "name": "HANBIT-Nano"
+        }
+      },
+      "pad": {
+        "name": "HANBIT Pad",
+        "location": {
+          "name": "Alcântara Space Center, Federative Republic of Brazil",
+          "country_code": "BRA"
         }
       }
     }
