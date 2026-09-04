@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:17:50.268Z",
+  "generated_at": "2026-09-04T19:44:12.614Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -130,6 +130,27 @@
       }
     },
     {
+      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
+      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
+      "net": "2026-09-13T18:50:00Z",
+      "mission": {
+        "name": "O3b mPower 11-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "name": "Vega-C | Sentinel-3C & FLEX",
       "net": "2026-09-15T01:21:07Z",
@@ -177,27 +198,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "Crew-13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
-      "name": "Falcon 9 Block 5 | O3b mPower 11-13",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "O3b mPower 11-13"
       },
       "rocket": {
         "configuration": {
@@ -500,7 +500,7 @@
         }
       },
       "pad": {
-        "name": "Unknown Pad",
+        "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
