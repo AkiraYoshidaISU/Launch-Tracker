@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-08T14:14:40.048Z",
+  "generated_at": "2026-09-08T17:58:28.816Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
-      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
-      "net": "2026-09-09T16:15:03Z",
-      "mission": {
-        "name": "Progress MS-35 (96P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
-        }
-      }
-    },
     {
       "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
       "name": "Long March 2D/YZ-3 | Unknown Payload",
@@ -109,6 +88,27 @@
       }
     },
     {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "net": "2026-09-15T00:00:00Z",
+      "mission": {
+        "name": "Flight 14"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
       "name": "Vega-C | Sentinel-3C & FLEX",
       "net": "2026-09-15T01:21:07Z",
@@ -126,6 +126,48 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
+      "name": "Soyuz 2.1b | Progress MS-35 (96P)",
+      "net": "2026-09-16T00:00:00Z",
+      "mission": {
+        "name": "Progress MS-35 (96P)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b",
+          "name": "Soyuz 2.1b"
+        }
+      },
+      "pad": {
+        "name": "31/6",
+        "location": {
+          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+          "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-09-17T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12",
+          "name": "Long March 12"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -231,27 +273,6 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Flight 14"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
         }
       }
     },
@@ -508,6 +529,27 @@
       }
     },
     {
+      "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+      "name": "Falcon Heavy | NROL-97",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "NROL-97"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon Heavy",
+          "name": "Falcon Heavy"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": {
+          "name": "Kennedy Space Center, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
       "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
       "net": "2026-11-19T00:00:00Z",
@@ -588,48 +630,6 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
-      "name": "HANBIT-Nano | InnoSat-0",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "InnoSat-0"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "HANBIT-Nano",
-          "name": "HANBIT-Nano"
-        }
-      },
-      "pad": {
-        "name": "HANBIT Pad",
-        "location": {
-          "name": "Alcântara Space Center, Federative Republic of Brazil",
-          "country_code": "BRA"
-        }
-      }
-    },
-    {
-      "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
-      "name": "Electron | StriX Launch 13",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "StriX Launch 13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
         }
       }
     }
