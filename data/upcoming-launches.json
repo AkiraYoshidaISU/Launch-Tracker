@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:37:43.260Z",
+  "generated_at": "2026-09-09T15:40:11.189Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -46,30 +46,9 @@
       }
     },
     {
-      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
-      "name": "Long March 8A | Unknown Payload",
-      "net": "2026-09-11T16:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8A",
-          "name": "Long March 8A"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "ad358a4d-c541-409b-9366-9c2f2da4aeb9",
       "name": "Falcon 9 Block 5 | O3b mPower 11-13",
-      "net": "2026-09-13T18:50:00Z",
+      "net": "2026-09-13T18:49:00Z",
       "mission": {
         "name": "O3b mPower 11-13"
       },
@@ -130,6 +109,27 @@
       }
     },
     {
+      "id": "767f7827-53d8-4621-803b-f456a1e6b512",
+      "name": "Gravity-1 | Unknown Payload",
+      "net": "2026-09-15T21:55:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Gravity-1",
+          "name": "Gravity-1"
+        }
+      },
+      "pad": {
+        "name": "Yellow Sea (launch location 5)",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "d793ba47-faf5-4bab-a386-39a9ccc49c90",
       "name": "Soyuz 2.1b | Progress MS-35 (96P)",
       "net": "2026-09-16T00:00:00Z",
@@ -153,7 +153,7 @@
     {
       "id": "898f7df0-b6ce-4a5c-80b4-67e81842124e",
       "name": "Long March 12 | Unknown Payload",
-      "net": "2026-09-17T00:00:00Z",
+      "net": "2026-09-17T00:30:00Z",
       "mission": {
         "name": "Unknown Payload"
       },
@@ -272,6 +272,27 @@
         "name": "Long March 12 series Pad",
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "63063b9d-ade9-4448-8717-6f910aa81188",
+      "name": "Long March 8A | Unknown Payload",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 8A",
+          "name": "Long March 8A"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-1",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -609,27 +630,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-      "name": "Falcon Heavy | Griffin Mission One",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Griffin Mission One"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon Heavy",
-          "name": "Falcon Heavy"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": {
-          "name": "Kennedy Space Center, FL, USA",
-          "country_code": "USA"
         }
       }
     }
