@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-10T07:25:00.668Z",
+  "generated_at": "2026-09-10T12:17:53.818Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "95eb9265-bdbe-43ad-b08c-6be7eb4e58f4",
-      "name": "Long March 2D/YZ-3 | Unknown Payload",
-      "net": "2026-09-10T09:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2D/YZ-3",
-          "name": "Long March 2D/YZ-3"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 94 (SLS-2 / 603)",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "3e0456da-14b1-4ac3-b59e-35fefb1d1530",
       "name": "Falcon 9 Block 5 | USSF-153",
@@ -105,6 +84,27 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
+        }
+      }
+    },
+    {
+      "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
+      "name": "Zhuque-2E Block 2 | Unknown Payload",
+      "net": "2026-09-15T06:25:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Zhuque-2E Block 2",
+          "name": "Zhuque-2E Block 2"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 96A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
