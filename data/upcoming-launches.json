@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:18:32.880Z",
+  "generated_at": "2026-09-11T07:22:48.903Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -151,6 +151,27 @@
       }
     },
     {
+      "id": "71aa4d56-0ce9-4c7d-a808-cc22f2ac5a84",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-09-17T02:35:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kuaizhou 11",
+          "name": "Kuaizhou 11"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
       "name": "Starship | Flight 14",
       "net": "2026-09-18T00:00:00Z",
@@ -168,6 +189,27 @@
         "location": {
           "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
+      "name": "Long March 2D | Unknown Payload",
+      "net": "2026-09-19T10:50:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2D",
+          "name": "Long March 2D"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 9",
+        "location": {
+          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -324,27 +366,6 @@
       "net": "2026-09-30T00:00:00Z",
       "mission": {
         "name": "6x HawkEye 360"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "b81156da-c0b8-46c8-aebd-8af8d2be83cd",
-      "name": "Electron | BlackSky Gen-3 5",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "BlackSky Gen-3 5"
       },
       "rocket": {
         "configuration": {
@@ -609,27 +630,6 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
-      "name": "Ariane 62 | Metop-SG B1",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Metop-SG B1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 62",
-          "name": "Ariane 62"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     }
