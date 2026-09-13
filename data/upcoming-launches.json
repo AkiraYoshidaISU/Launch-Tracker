@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T13:00:02.085Z",
+  "generated_at": "2026-09-13T16:54:41.560Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -592,27 +592,6 @@
       }
     },
     {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "name": "Soyuz 2.1a/Fregat-M | MKA Kinosputnik, KOEN and others",
-      "net": "2026-11-19T00:00:00Z",
-      "mission": {
-        "name": "MKA Kinosputnik, KOEN and others"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1a Fregat-M",
-          "name": "Soyuz 2.1a/Fregat-M"
-        }
-      },
-      "pad": {
-        "name": "Cosmodrome Site 1S",
-        "location": {
-          "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
-          "country_code": "RUS"
-        }
-      }
-    },
-    {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "name": "Soyuz 2.1b | Progress MS-36 (97P)",
       "net": "2026-11-24T05:03:00Z",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "name": "Ariane 62 | Metop-SG B1",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "Metop-SG B1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 62",
+          "name": "Ariane 62"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     }
