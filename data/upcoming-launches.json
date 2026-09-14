@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:23:39.489Z",
+  "generated_at": "2026-09-14T15:07:55.773Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -151,27 +151,6 @@
       }
     },
     {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Flight 14",
-      "net": "2026-09-18T12:15:00Z",
-      "mission": {
-        "name": "Flight 14"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
       "name": "Long March 2D | Unknown Payload",
       "net": "2026-09-19T10:50:00Z",
@@ -209,6 +188,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Flight 14",
+      "net": "2026-09-22T12:15:00Z",
+      "mission": {
+        "name": "Flight 14"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
         }
       }
