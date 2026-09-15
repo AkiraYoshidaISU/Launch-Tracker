@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-15T01:05:49.369Z",
+  "generated_at": "2026-09-15T06:20:05.989Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "8effc13a-c658-4d2e-9f15-8dba4d7fe2dd",
-      "name": "Vega-C | Sentinel-3C & FLEX",
-      "net": "2026-09-15T01:21:07Z",
-      "mission": {
-        "name": "Sentinel-3C & FLEX"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vega-C",
-          "name": "Vega-C"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 1 (ELV)",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
     {
       "id": "de446468-057f-4c9d-a6a1-af99c93b541e",
       "name": "Zhuque-2E Block 2 | Unknown Payload",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
+      "name": "HANBIT-Nano | InnoSat-0",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "InnoSat-0"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "HANBIT-Nano",
+          "name": "HANBIT-Nano"
+        }
+      },
+      "pad": {
+        "name": "HANBIT Pad",
+        "location": {
+          "name": "Alcântara Space Center, Federative Republic of Brazil",
+          "country_code": "BRA"
         }
       }
     }
