@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:57:00.380Z",
+  "generated_at": "2026-09-15T16:12:49.487Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -167,6 +167,27 @@
         "name": "Orbital Launch Pad 2",
         "location": {
           "name": "SpaceX Starbase, TX, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7330d83b-c478-426c-8859-f9e3a335876d",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-3\")",
+      "net": "2026-09-27T11:42:00Z",
+      "mission": {
+        "name": "USSF-xxx (\"R-3\")"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
@@ -609,27 +630,6 @@
         "location": {
           "name": "Alcântara Space Center, Federative Republic of Brazil",
           "country_code": "BRA"
-        }
-      }
-    },
-    {
-      "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
-      "name": "Electron | StriX Launch 13",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "StriX Launch 13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
         }
       }
     }
