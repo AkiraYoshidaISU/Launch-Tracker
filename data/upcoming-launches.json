@@ -1,33 +1,12 @@
 {
-  "generated_at": "2026-09-15T19:45:02.321Z",
+  "generated_at": "2026-09-15T22:34:45.858Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
-      "id": "767f7827-53d8-4621-803b-f456a1e6b512",
-      "name": "Gravity-1 | Unknown Payload",
-      "net": "2026-09-15T21:55:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Gravity-1",
-          "name": "Gravity-1"
-        }
-      },
-      "pad": {
-        "name": "Yellow Sea (launch location 5)",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "17c71937-dd80-406f-bb47-0c9ee9a24276",
       "name": "Falcon 9 Block 5 | USSF-259",
-      "net": "2026-09-16T01:29:18Z",
+      "net": "2026-09-16T02:18:38Z",
       "mission": {
         "name": "USSF-259"
       },
@@ -105,6 +84,27 @@
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
+      "name": "Electron | Owl By The Dozen (StriX Launch 12)",
+      "net": "2026-09-19T03:15:00Z",
+      "mission": {
+        "name": "Owl By The Dozen (StriX Launch 12)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
@@ -445,27 +445,6 @@
       }
     },
     {
-      "id": "f4c720ce-0cfd-43e6-b8dd-00273073bc01",
-      "name": "Electron | StriX Launch 12",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "StriX Launch 12"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
       "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
       "net": "2026-10-31T00:00:00Z",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Alcântara Space Center, Federative Republic of Brazil",
           "country_code": "BRA"
+        }
+      }
+    },
+    {
+      "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
+      "name": "Electron | StriX Launch 13",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "StriX Launch 13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     }
