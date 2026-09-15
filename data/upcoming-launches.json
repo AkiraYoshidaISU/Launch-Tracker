@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:12:49.487Z",
+  "generated_at": "2026-09-15T19:45:02.321Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "17c71937-dd80-406f-bb47-0c9ee9a24276",
       "name": "Falcon 9 Block 5 | USSF-259",
-      "net": "2026-09-16T01:00:00Z",
+      "net": "2026-09-16T01:29:18Z",
       "mission": {
         "name": "USSF-259"
       },
