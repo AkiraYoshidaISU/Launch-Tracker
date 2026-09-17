@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:56:47.610Z",
+  "generated_at": "2026-09-17T00:02:51.103Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -273,6 +273,27 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
+      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
+      "net": "2026-09-30T00:00:00Z",
+      "mission": {
+        "name": "Kosmos (Unknown Payload)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b Fregat-M",
+          "name": "Soyuz 2.1b/Fregat-M"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Plesetsk Cosmodrome, Russian Federation",
+          "country_code": "RUS"
         }
       }
     },
@@ -609,27 +630,6 @@
         "location": {
           "name": "Alcântara Space Center, Federative Republic of Brazil",
           "country_code": "BRA"
-        }
-      }
-    },
-    {
-      "id": "9e24bef7-c44b-4fdc-ba52-68545ce9457e",
-      "name": "Electron | StriX Launch 13",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "StriX Launch 13"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
         }
       }
     }
