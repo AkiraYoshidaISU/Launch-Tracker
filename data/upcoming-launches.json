@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:07:28.772Z",
+  "generated_at": "2026-09-17T19:08:04.319Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -88,27 +88,6 @@
       }
     },
     {
-      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
-      "name": "Starship | Starlink Group 31-1 (Starship Flight 14)",
-      "net": "2026-09-22T12:15:00Z",
-      "mission": {
-        "name": "Starlink Group 31-1 (Starship Flight 14)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "name": "Falcon 9 Block 5 | USSF-385",
       "net": "2026-09-26T11:56:00Z",
@@ -125,6 +104,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7d1afb26-6f9c-429b-9ccf-29012fd1e519",
+      "name": "Starship | Starlink Group 31-1 (Starship Flight 14)",
+      "net": "2026-09-28T12:15:00Z",
+      "mission": {
+        "name": "Starlink Group 31-1 (Starship Flight 14)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
         }
       }
