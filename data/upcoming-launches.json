@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:25:44.762Z",
+  "generated_at": "2026-09-18T09:57:14.156Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -189,27 +189,6 @@
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
           "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "ab3c1e6c-03fe-48a7-b6ce-30c79569bdfb",
-      "name": "Soyuz 2.1b/Fregat | Kosmos (Unknown Payload)",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Kosmos (Unknown Payload)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b Fregat-M",
-          "name": "Soyuz 2.1b/Fregat-M"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Plesetsk Cosmodrome, Russian Federation",
-          "country_code": "RUS"
         }
       }
     },
@@ -629,6 +608,27 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "71ed4649-8d71-42e8-8548-d42ffa2c5a6e",
+      "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer E",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 2 Transport Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
