@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:32:37.279Z",
+  "generated_at": "2026-09-18T05:25:44.762Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -17,7 +17,7 @@
         }
       },
       "pad": {
-        "name": "Unknown Pad",
+        "name": "Rocket Lab Launch Complex 1B",
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
@@ -151,27 +151,6 @@
       }
     },
     {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
       "name": "Long March 12A | Flight 2",
       "net": "2026-09-30T00:00:00Z",
@@ -298,23 +277,23 @@
       }
     },
     {
-      "id": "3b94ad50-3505-496e-8a95-b0bc4c0dadc6",
-      "name": "Themis Demonstrator | T1H-1",
-      "net": "2026-09-30T00:00:00Z",
+      "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
+      "name": "SR75 | Flight 2",
+      "net": "2026-10-05T00:00:00Z",
       "mission": {
-        "name": "T1H-1"
+        "name": "Flight 2"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Themis Demonstrator",
-          "name": "Themis Demonstrator"
+          "full_name": "SR75",
+          "name": "SR75"
         }
       },
       "pad": {
-        "name": "Launch Complex 3B",
+        "name": "Unknown Pad",
         "location": {
-          "name": "Esrange Space Center",
-          "country_code": "SWE"
+          "name": "SaxaVord Spaceport",
+          "country_code": "GBR"
         }
       }
     },
@@ -440,6 +419,27 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
