@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:05:02.786Z",
+  "generated_at": "2026-09-18T17:44:58.498Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -277,6 +277,27 @@
       }
     },
     {
+      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
+      "name": "Falcon 9 Block 5 | Crew-13",
+      "net": "2026-10-01T15:10:06Z",
+      "mission": {
+        "name": "Crew-13"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
       "name": "SR75 | Flight 2",
       "net": "2026-10-05T00:00:00Z",
@@ -366,27 +387,6 @@
       "net": "2026-10-31T00:00:00Z",
       "mission": {
         "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
-      "name": "Falcon 9 Block 5 | Crew-13",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "Crew-13"
       },
       "rocket": {
         "configuration": {
