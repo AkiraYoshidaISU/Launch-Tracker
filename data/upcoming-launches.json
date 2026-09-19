@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-19T09:38:28.785Z",
+  "generated_at": "2026-09-19T13:36:28.153Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a527b585-f01f-4ecc-9230-711dcef72ef1",
-      "name": "Long March 2D | Unknown Payload",
-      "net": "2026-09-19T10:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2D",
-          "name": "Long March 2D"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 9",
-        "location": {
-          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
       "name": "Falcon 9 Block 5 | Starlink Group 15-27",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
