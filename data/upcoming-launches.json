@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-19T23:48:29.893Z",
+  "generated_at": "2026-09-20T02:40:23.390Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "d1471f9d-e9d0-4146-8e97-90863e48bfc8",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-27",
-      "net": "2026-09-20T01:47:00Z",
-      "mission": {
-        "name": "Starlink Group 15-27"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "5af31461-bce5-4cfb-a0ee-b527cf285d90",
       "name": "Kinetica 1 | Unknown Payload",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
