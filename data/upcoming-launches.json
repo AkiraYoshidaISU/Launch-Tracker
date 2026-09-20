@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-09-20T02:40:23.390Z",
+  "generated_at": "2026-09-20T08:08:49.992Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "5af31461-bce5-4cfb-a0ee-b527cf285d90",
-      "name": "Kinetica 1 | Unknown Payload",
-      "net": "2026-09-20T04:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kinetica 1",
-          "name": "Kinetica 1"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 130",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "63063b9d-ade9-4448-8717-6f910aa81188",
       "name": "Long March 8A | Unknown Payload",
@@ -125,48 +104,6 @@
         "name": "Orbital Launch Pad 2",
         "location": {
           "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "name": "Long March 12A | Flight 2",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Flight 2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 12A",
-          "name": "Long March 12A"
-        }
-      },
-      "pad": {
-        "name": "Long March 12 series Pad",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "net": "2026-09-30T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LV-01)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vulcan VC6L",
-          "name": "Vulcan VC6L"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -377,6 +314,48 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
+      "name": "Long March 12A | Flight 2",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "Flight 2"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12A",
+          "name": "Long March 12A"
+        }
+      },
+      "pad": {
+        "name": "Long March 12 series Pad",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LV-01)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vulcan VC6L",
+          "name": "Vulcan VC6L"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -629,6 +608,27 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
