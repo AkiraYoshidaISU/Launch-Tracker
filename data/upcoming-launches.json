@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T23:26:54.400Z",
+  "generated_at": "2026-09-22T01:42:00.421Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -109,27 +109,6 @@
       }
     },
     {
-      "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-25",
-      "net": "2026-09-30T16:00:00Z",
-      "mission": {
-        "name": "Starlink Group 15-25"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "18441371-8b2e-457c-afb5-1ec1b11ab630",
       "name": "Falcon 9 Block 5 | Crew-13",
       "net": "2026-10-01T15:10:06Z",
@@ -231,6 +210,27 @@
         "location": {
           "name": "Naro Space Center, South Korea",
           "country_code": "KOR"
+        }
+      }
+    },
+    {
+      "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-25",
+      "net": "2026-10-10T16:00:00Z",
+      "mission": {
+        "name": "Starlink Group 15-25"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
