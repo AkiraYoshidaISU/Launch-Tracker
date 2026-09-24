@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:37:19.269Z",
+  "generated_at": "2026-09-24T17:39:58.002Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -104,6 +104,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
+      "name": "Falcon Heavy | NROL-97",
+      "net": "2026-10-02T03:53:00Z",
+      "mission": {
+        "name": "NROL-97"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon Heavy",
+          "name": "Falcon Heavy"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": {
+          "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
         }
       }
@@ -335,27 +356,6 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "4651fd8a-43de-4166-bf8f-c168b3bd1d2c",
-      "name": "Falcon Heavy | NROL-97",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "NROL-97"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon Heavy",
-          "name": "Falcon Heavy"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": {
-          "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
         }
       }
