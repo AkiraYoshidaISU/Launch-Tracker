@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:47:04.956Z",
+  "generated_at": "2026-09-25T02:46:17.282Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -90,7 +90,7 @@
     {
       "id": "67213393-7983-4c06-8b44-b8c785a5ed79",
       "name": "Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)",
-      "net": "2026-10-01T18:08:00Z",
+      "net": "2026-10-01T18:18:00Z",
       "mission": {
         "name": "Transporter 18 (Dedicated SSO Rideshare)"
       },
