@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:00:27.777Z",
+  "generated_at": "2026-09-25T18:46:03.361Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "7330d83b-c478-426c-8859-f9e3a335876d",
       "name": "Falcon 9 Block 5 | USSF-385",
-      "net": "2026-09-26T11:56:00Z",
+      "net": "2026-09-26T12:56:13Z",
       "mission": {
         "name": "USSF-385"
       },
