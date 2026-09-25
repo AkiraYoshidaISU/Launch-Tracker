@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:23:52.343Z",
+  "generated_at": "2026-09-25T14:00:27.777Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -151,27 +151,6 @@
       }
     },
     {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-10-07T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-04)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
-    {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
       "name": "Nuri | NeonSat-2 to 6",
       "net": "2026-10-07T03:23:00Z",
@@ -252,6 +231,27 @@
         "location": {
           "name": "Tanegashima Space Center, Japan",
           "country_code": "JPN"
+        }
+      }
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-04)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     },
