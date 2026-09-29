@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:56:35.927Z",
+  "generated_at": "2026-09-29T12:02:49.849Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -153,7 +153,7 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-15T00:00:00Z",
+      "net": "2026-10-13T17:00:00Z",
       "mission": {
         "name": "IRNSS-1L (NVS-03)"
       },
