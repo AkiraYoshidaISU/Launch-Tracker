@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:24:20.207Z",
+  "generated_at": "2026-09-30T06:58:57.107Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -126,6 +126,27 @@
         "location": {
           "name": "Naro Space Center, South Korea",
           "country_code": "KOR"
+        }
+      }
+    },
+    {
+      "id": "a1bb0984-19d4-4b47-9bba-706d225573e2",
+      "name": "Long March 12 | Unknown Payload",
+      "net": "2026-10-09T19:25:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12",
+          "name": "Long March 12"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
-      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
