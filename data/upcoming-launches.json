@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:00:47.842Z",
+  "generated_at": "2026-10-01T23:49:06.232Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -111,7 +111,7 @@
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
-      "net": "2026-10-13T00:00:00Z",
+      "net": "2026-10-13T10:33:00Z",
       "mission": {
         "name": "Dragon CRS-2 SpX-35"
       },
@@ -126,27 +126,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-13T17:00:00Z",
-      "mission": {
-        "name": "IRNSS-1L (NVS-03)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
         }
       }
     },
@@ -210,6 +189,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
+      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
+      "net": "2026-10-31T00:00:00Z",
+      "mission": {
+        "name": "IRNSS-1L (NVS-03)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "GSLV Mk. II",
+          "name": "GSLV Mk II"
+        }
+      },
+      "pad": {
+        "name": "Satish Dhawan Space Centre Second Launch Pad",
+        "location": {
+          "name": "Satish Dhawan Space Centre, India",
+          "country_code": "IND"
         }
       }
     },
