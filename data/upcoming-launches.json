@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:27:18.471Z",
+  "generated_at": "2026-10-01T14:39:56.028Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -63,27 +63,6 @@
         "location": {
           "name": "Kennedy Space Center, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "6b89cfc8-8880-4b5b-856c-0e547d45b639",
-      "name": "SR75 | Flight 2",
-      "net": "2026-10-05T00:00:00Z",
-      "mission": {
-        "name": "Flight 2"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "SR75",
-          "name": "SR75"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "SaxaVord Spaceport",
-          "country_code": "GBR"
         }
       }
     },
@@ -382,27 +361,6 @@
       }
     },
     {
-      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-      "name": "Falcon Heavy | Griffin Mission One",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Griffin Mission One"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon Heavy",
-          "name": "Falcon Heavy"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": {
-          "name": "Kennedy Space Center, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "7c891a0b-7194-4425-8cfd-2e8c75af2924",
       "name": "HANBIT-Nano | InnoSat-0",
       "net": "2026-11-30T00:00:00Z",
@@ -571,6 +529,27 @@
       }
     },
     {
+      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
+      "name": "Falcon Heavy | Griffin Mission One",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Griffin Mission One"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon Heavy",
+          "name": "Falcon Heavy"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 39A",
+        "location": {
+          "name": "Kennedy Space Center, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "0cf92611-82a8-4095-a0b4-dda2e74b1fff",
       "name": "LVM-3 | GSAT-32 (GSAT-N3)",
       "net": "2026-12-31T00:00:00Z",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
