@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-06T23:28:53.132Z",
+  "generated_at": "2026-10-07T02:36:54.089Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "e0741415-6c63-4236-9736-24a6c04485bc",
       "name": "Nuri | NeonSat-2 to 6",
-      "net": "2026-10-07T03:23:00Z",
+      "net": "2026-10-07T03:25:00Z",
       "mission": {
         "name": "NeonSat-2 to 6"
       },
