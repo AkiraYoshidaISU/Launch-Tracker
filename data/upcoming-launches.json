@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-07T02:36:54.089Z",
+  "generated_at": "2026-10-07T09:35:37.031Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e0741415-6c63-4236-9736-24a6c04485bc",
-      "name": "Nuri | NeonSat-2 to 6",
-      "net": "2026-10-07T03:25:00Z",
-      "mission": {
-        "name": "NeonSat-2 to 6"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "KSLV-2 Nuri",
-          "name": "Nuri"
-        }
-      },
-      "pad": {
-        "name": "LC-2",
-        "location": {
-          "name": "Naro Space Center, South Korea",
-          "country_code": "KOR"
-        }
-      }
-    },
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer D"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "c5783e2b-d458-4b99-9936-4043c236190b",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer F",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer F"
       },
       "rocket": {
         "configuration": {
