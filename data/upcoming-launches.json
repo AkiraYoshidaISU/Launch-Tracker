@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:14:20.277Z",
+  "generated_at": "2026-10-08T16:41:34.961Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
       "name": "Falcon 9 Block 5 | Starlink Group 15-25",
-      "net": "2026-10-11T23:00:00Z",
+      "net": "2026-10-12T23:00:00Z",
       "mission": {
         "name": "Starlink Group 15-25"
       },
@@ -89,10 +89,10 @@
     },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
-      "name": "Falcon 9 Block 5 | USSF-xxx (\"TH-2\")",
+      "name": "Falcon 9 Block 5 | USSF-481",
       "net": "2026-10-15T23:44:00Z",
       "mission": {
-        "name": "USSF-xxx (\"TH-2\")"
+        "name": "USSF-481"
       },
       "rocket": {
         "configuration": {
