@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-10T06:07:47.340Z",
+  "generated_at": "2026-10-10T12:48:19.241Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-10-10T07:39:44Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
       "name": "Falcon 9 Block 5 | Starlink Group 15-25",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "ConnectedCosmos Launch 1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Firefly Alpha Block 2",
+          "name": "Firefly Alpha Block 2"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 2W",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "d47cbca4-48c1-455a-b357-f156833b189e",
+      "name": "Firefly Alpha Block 2 | ConnectedCosmos Launch 2",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "ConnectedCosmos Launch 2"
       },
       "rocket": {
         "configuration": {
