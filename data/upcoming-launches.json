@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T00:08:56.751Z",
+  "generated_at": "2026-10-10T06:07:47.340Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5",
       "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A",
-      "net": "2026-10-10T07:39:00Z",
+      "net": "2026-10-10T07:39:44Z",
       "mission": {
         "name": "SDA Tranche 1 Transport Layer A"
       },
@@ -89,10 +89,10 @@
     },
     {
       "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-      "name": "H3-24 | Martian Moon eXplorer (MMX)",
+      "name": "H3-24 | Martian Moons eXploration (MMX)",
       "net": "2026-10-19T19:41:03Z",
       "mission": {
-        "name": "Martian Moon eXplorer (MMX)"
+        "name": "Martian Moons eXploration (MMX)"
       },
       "rocket": {
         "configuration": {
