@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:48:19.241Z",
+  "generated_at": "2026-10-10T17:33:41.424Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -424,6 +424,27 @@
       }
     },
     {
+      "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
+      "name": "New Glenn | Blue Ring-1",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Blue Ring-1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "New Glenn",
+          "name": "New Glenn"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "0b85fcca-5252-48d7-9ccb-c10b1da9d183",
       "name": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)",
       "net": "2026-12-31T00:00:00Z",
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "ConnectedCosmos Launch 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Firefly Alpha Block 2",
-          "name": "Firefly Alpha Block 2"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 2W",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "d47cbca4-48c1-455a-b357-f156833b189e",
-      "name": "Firefly Alpha Block 2 | ConnectedCosmos Launch 2",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "ConnectedCosmos Launch 2"
       },
       "rocket": {
         "configuration": {
