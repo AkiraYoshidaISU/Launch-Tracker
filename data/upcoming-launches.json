@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T12:23:02.375Z",
+  "generated_at": "2026-10-13T19:24:41.375Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -130,6 +130,27 @@
       }
     },
     {
+      "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-16",
+      "net": "2026-10-24T05:29:00Z",
+      "mission": {
+        "name": "Starlink Group 15-16"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
       "net": "2026-10-29T00:00:00Z",
@@ -147,27 +168,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-04)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     },
@@ -298,16 +298,16 @@
       }
     },
     {
-      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
-      "name": "Ariane 62 | Metop-SG B1",
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
       "net": "2026-11-30T00:00:00Z",
       "mission": {
-        "name": "Metop-SG B1"
+        "name": "Amazon Leo (LE-04)"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Ariane 62",
-          "name": "Ariane 62"
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
         }
       },
       "pad": {
@@ -378,6 +378,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "22e117bf-041c-49d5-9d09-7b180036e143",
+      "name": "Ariane 62 | Metop-SG B1",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Metop-SG B1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 62",
+          "name": "Ariane 62"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     },
@@ -504,27 +525,6 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "0b85fcca-5252-48d7-9ccb-c10b1da9d183",
-      "name": "Ariane 62 | Galileo L15 (FOC FM28 & FM31)",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Galileo L15 (FOC FM28 & FM31)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 62",
-          "name": "Ariane 62"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     },
