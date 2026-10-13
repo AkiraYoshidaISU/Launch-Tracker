@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-12T23:41:11.565Z",
+  "generated_at": "2026-10-13T04:48:17.765Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "97c6f5e1-299e-4652-b72d-9618ac047076",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-25",
-      "net": "2026-10-13T00:28:11Z",
-      "mission": {
-        "name": "Starlink Group 15-25"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "bf2c3027-a314-403e-a416-2bfd5d165ad1",
       "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-35",
@@ -46,6 +25,27 @@
       }
     },
     {
+      "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
+      "name": "Zhuque-2E | Unknown Payload",
+      "net": "2026-10-14T11:40:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Zhuque-2E",
+          "name": "Zhuque-2E"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 96A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
       "name": "Falcon 9 Block 5 | USSF-481",
       "net": "2026-10-15T23:44:00Z",
@@ -62,6 +62,27 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
+      "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+      "net": "2026-10-19T10:30:00Z",
+      "mission": {
+        "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -168,27 +189,6 @@
         "location": {
           "name": "Guiana Space Centre, French Guiana",
           "country_code": "GUF"
-        }
-      }
-    },
-    {
-      "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
-      "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
         }
       }
     },
