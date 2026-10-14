@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-14T07:51:04.181Z",
+  "generated_at": "2026-10-14T13:12:17.208Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "dfcabb3c-078b-4f5b-a47c-0161f248cee9",
-      "name": "Zhuque-2E | Unknown Payload",
-      "net": "2026-10-14T11:40:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Zhuque-2E",
-          "name": "Zhuque-2E"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 96A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "df88cfbf-f504-4e11-8370-e33dd6280b5b",
       "name": "Falcon 9 Block 5 | USSF-481",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
