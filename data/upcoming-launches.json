@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T13:12:17.208Z",
+  "generated_at": "2026-10-14T18:05:11.302Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -256,6 +256,27 @@
       }
     },
     {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-11-23T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-04)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
+        }
+      }
+    },
+    {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "name": "Soyuz 2.1b | Progress MS-36 (97P)",
       "net": "2026-11-24T05:03:00Z",
@@ -273,27 +294,6 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-04)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
         }
       }
     },
