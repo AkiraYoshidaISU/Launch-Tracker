@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-19T17:36:56.870Z",
+  "generated_at": "2026-10-19T21:53:16.030Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "69ebbcd2-b257-4070-9ef9-21e7d1f8a883",
-      "name": "H3-24 | Martian Moons eXploration (MMX)",
-      "net": "2026-10-19T19:41:03Z",
-      "mission": {
-        "name": "Martian Moons eXploration (MMX)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "H3-24",
-          "name": "H3-24"
-        }
-      },
-      "pad": {
-        "name": "Yoshinobu Launch Complex LP-2",
-        "location": {
-          "name": "Tanegashima Space Center, Japan",
-          "country_code": "JPN"
-        }
-      }
-    },
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
       "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
@@ -627,6 +606,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
