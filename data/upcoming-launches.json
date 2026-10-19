@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:01:13.817Z",
+  "generated_at": "2026-10-19T17:36:56.870Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -193,6 +193,27 @@
       }
     },
     {
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "net": "2026-10-28T04:31:00Z",
+      "mission": {
+        "name": "Starlink Group 15-18"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
       "net": "2026-10-29T00:00:00Z",
@@ -273,6 +294,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "net": "2026-11-01T05:11:00Z",
+      "mission": {
+        "name": "Starlink Group 15-21"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -585,48 +627,6 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
-      "name": "Falcon 9 Block 5 | CHORUS",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "CHORUS"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
-      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Inmarsat-7 F1 (GX-7)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
