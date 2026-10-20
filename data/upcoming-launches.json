@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-20T05:34:52.308Z",
+  "generated_at": "2026-10-20T10:43:53.487Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "3b430f81-0ff1-4d85-8a1a-cef0de326198",
       "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "net": "2026-10-20T10:30:00Z",
+      "net": "2026-10-20T11:04:00Z",
       "mission": {
         "name": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)"
       },
