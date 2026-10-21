@@ -1,54 +1,12 @@
 {
-  "generated_at": "2026-10-21T01:09:52.266Z",
+  "generated_at": "2026-10-21T06:13:04.263Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
-      "id": "c6f8b6b0-6bae-460a-99bb-c12a3d29effd",
-      "name": "Ceres-1S | Unknown Payload",
-      "net": "2026-10-21T03:35:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ceres-1S",
-          "name": "Ceres-1S"
-        }
-      },
-      "pad": {
-        "name": "Rizhao offshore launch location",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
-      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
-      "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-      "net": "2026-10-21T07:00:00Z",
-      "mission": {
-        "name": "We're Not Hawking Around (3x HawkEye 360)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1A",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
-    {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-21T21:59:00Z",
+      "net": "2026-10-21T23:02:41Z",
       "mission": {
         "name": "Starlink Group 15-15"
       },
@@ -63,6 +21,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "7766f3bb-674c-4c71-b986-963bd633fcfe",
+      "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
+      "net": "2026-10-22T07:00:00Z",
+      "mission": {
+        "name": "We're Not Hawking Around (3x HawkEye 360)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Rocket Lab Launch Complex 1A",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
