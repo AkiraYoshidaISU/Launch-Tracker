@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:50:19.050Z",
+  "generated_at": "2026-10-22T02:42:07.167Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-22T21:45:00Z",
+      "net": "2026-10-22T22:40:24Z",
       "mission": {
         "name": "Starlink Group 15-15"
       },
@@ -111,30 +111,9 @@
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-      "net": "2026-10-25T05:14:00Z",
+      "net": "2026-10-26T05:00:00Z",
       "mission": {
         "name": "Starlink Group 15-16"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-28T04:31:00Z",
-      "mission": {
-        "name": "Starlink Group 15-18"
       },
       "rocket": {
         "configuration": {
@@ -167,6 +146,27 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "net": "2026-10-29T04:17:00Z",
+      "mission": {
+        "name": "Starlink Group 15-18"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
