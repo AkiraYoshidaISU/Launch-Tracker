@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T13:57:42.507Z",
+  "generated_at": "2026-10-22T18:18:23.305Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-22T22:40:24Z",
+      "net": "2026-10-22T22:51:18Z",
       "mission": {
         "name": "Starlink Group 15-15"
       },
@@ -174,7 +174,7 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-31T00:00:00Z",
+      "net": "2026-10-30T00:00:00Z",
       "mission": {
         "name": "IRNSS-1L (NVS-03)"
       },
@@ -214,27 +214,6 @@
       }
     },
     {
-      "id": "e59ff9a4-f72f-4841-8546-3c94346ecdba",
-      "name": "SSLV | AayulSAT-1A & others",
-      "net": "2026-10-31T00:00:00Z",
-      "mission": {
-        "name": "AayulSAT-1A & others"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "SSLV",
-          "name": "SSLV"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre First Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
-        }
-      }
-    },
-    {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
       "net": "2026-11-04T00:00:00Z",
@@ -252,6 +231,27 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "net": "2026-11-05T05:14:00Z",
+      "mission": {
+        "name": "Starlink Group 15-21"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -294,27 +294,6 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
-        }
-      }
-    },
-    {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-      "net": "2026-11-10T00:00:00Z",
-      "mission": {
-        "name": "Starlink Group 15-21"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
         }
       }
     },
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
