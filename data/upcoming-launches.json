@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:18:39.085Z",
+  "generated_at": "2026-10-23T15:16:42.311Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "f6af629d-39b5-4f86-bc0c-f8776444a858",
       "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-      "net": "2026-10-23T21:30:00Z",
+      "net": "2026-10-23T22:28:53Z",
       "mission": {
         "name": "Starlink Group 15-15"
       },
@@ -69,7 +69,7 @@
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
-      "net": "2026-10-26T05:00:00Z",
+      "net": "2026-10-27T04:45:00Z",
       "mission": {
         "name": "Starlink Group 15-16"
       },
@@ -111,7 +111,7 @@
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-29T04:17:00Z",
+      "net": "2026-10-30T04:02:00Z",
       "mission": {
         "name": "Starlink Group 15-18"
       },
