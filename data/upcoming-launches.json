@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T13:45:12.769Z",
+  "generated_at": "2026-10-24T17:07:12.030Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -41,27 +41,6 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "net": "2026-10-29T00:00:00Z",
-      "mission": {
-        "name": "Amazon Leo (LV-01)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Vulcan VC6L",
-          "name": "Vulcan VC6L"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 41",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
@@ -256,6 +235,27 @@
       }
     },
     {
+      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
+      "name": "Long March 2F/G | Shenzhou 24",
+      "net": "2026-11-25T00:00:00Z",
+      "mission": {
+        "name": "Shenzhou 24"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2F/G",
+          "name": "Long March 2F/G"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 91 (SLS-1 / 921)",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
       "net": "2026-11-30T00:00:00Z",
@@ -336,6 +336,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LV-01)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vulcan VC6L",
+          "name": "Vulcan VC6L"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer E"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
