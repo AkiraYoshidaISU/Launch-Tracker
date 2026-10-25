@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-25T00:25:13.486Z",
+  "generated_at": "2026-10-25T05:01:15.011Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "6b95bcc8-1f88-4539-84fe-f63630138766",
-      "name": "Long March 8A | Unknown Payload",
-      "net": "2026-10-25T01:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8A",
-          "name": "Long March 8A"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "e2886a96-5ce9-4f45-872f-4e25a00be837",
       "name": "Falcon 9 Block 5 | Starlink Group 15-16",
@@ -613,11 +592,32 @@
       }
     },
     {
-      "id": "fcbc4550-e69e-4458-a9e6-4a5b6b6b15a5",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer E",
+      "id": "a9ee8337-127d-4f17-9e3a-a07999f80099",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D",
       "net": "2026-12-31T00:00:00Z",
       "mission": {
-        "name": "SDA Tranche 1 Tracking Layer E"
+        "name": "SDA Tranche 1 Tracking Layer D"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
