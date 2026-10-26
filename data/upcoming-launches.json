@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:58:56.446Z",
+  "generated_at": "2026-10-26T18:25:45.071Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-30T17:00:00Z",
+      "net": "2026-10-30T18:21:00Z",
       "mission": {
         "name": "IRNSS-1L (NVS-03)"
       },
@@ -67,23 +67,23 @@
       }
     },
     {
-      "id": "dc570565-4dcf-4ab9-8174-bf88efef477f",
-      "name": "Long March 12A | Flight 2",
-      "net": "2026-10-31T00:00:00Z",
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "net": "2026-11-02T01:56:00Z",
       "mission": {
-        "name": "Flight 2"
+        "name": "USSF-432"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Long March 12A",
-          "name": "Long March 12A"
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
         }
       },
       "pad": {
-        "name": "Long March 12 series Pad",
+        "name": "Space Launch Complex 4E",
         "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -114,27 +114,6 @@
       "net": "2026-11-05T05:14:00Z",
       "mission": {
         "name": "Starlink Group 15-21"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
-      "name": "Falcon 9 Block 5 | NROL-195",
-      "net": "2026-11-05T22:34:00Z",
-      "mission": {
-        "name": "NROL-195"
       },
       "rocket": {
         "configuration": {
@@ -251,6 +230,27 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49",
+      "name": "Falcon 9 Block 5 | NROL-195",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "NROL-195"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
