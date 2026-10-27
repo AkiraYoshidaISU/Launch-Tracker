@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:48:20.742Z",
+  "generated_at": "2026-10-27T01:45:17.368Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -126,6 +126,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "a2423132-f965-423f-8b03-6891b775dc54",
+      "name": "Long March 12 | SatNet LEO Group TBD?",
+      "net": "2026-11-05T20:00:00Z",
+      "mission": {
+        "name": "SatNet LEO Group TBD?"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 12",
+          "name": "Long March 12"
+        }
+      },
+      "pad": {
+        "name": "Commercial LC-2",
+        "location": {
+          "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer D"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
