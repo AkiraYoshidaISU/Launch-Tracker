@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-28T14:44:02.946Z",
+  "generated_at": "2026-10-28T20:00:14.854Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-30T04:02:00Z",
-      "mission": {
-        "name": "Starlink Group 15-18"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
       "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
@@ -46,11 +25,11 @@
       }
     },
     {
-      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
-      "name": "Falcon 9 Block 5 | USSF-432",
-      "net": "2026-11-02T01:56:00Z",
+      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
+      "net": "2026-10-31T03:48:00Z",
       "mission": {
-        "name": "USSF-432"
+        "name": "Starlink Group 15-18"
       },
       "rocket": {
         "configuration": {
@@ -69,7 +48,7 @@
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-      "net": "2026-11-03T00:00:00Z",
+      "net": "2026-11-02T08:45:00Z",
       "mission": {
         "name": "The Sea God Surveys (iQPS Launch 9)"
       },
@@ -88,11 +67,32 @@
       }
     },
     {
-      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
-      "net": "2026-11-05T02:35:00Z",
+      "id": "f3f201cd-0ff9-4ff7-9aaa-1d22c399c75a",
+      "name": "Kinetica 2 | SpaceSail Polar Group TBD?",
+      "net": "2026-11-03T00:10:00Z",
       "mission": {
-        "name": "Starlink Group 15-21"
+        "name": "SpaceSail Polar Group TBD?"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kinetica 2",
+          "name": "Kinetica 2"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 140",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
+      "name": "Falcon 9 Block 5 | USSF-432",
+      "net": "2026-11-03T01:42:00Z",
+      "mission": {
+        "name": "USSF-432"
       },
       "rocket": {
         "configuration": {
@@ -105,6 +105,48 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
+      "name": "Mir | Demo Flight",
+      "net": "2026-11-04T05:00:00Z",
+      "mission": {
+        "name": "Demo Flight"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Mir",
+          "name": "Mir"
+        }
+      },
+      "pad": {
+        "name": "ADD Offshore launch platform",
+        "location": {
+          "name": "Sea Launch",
+          "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
+      "name": "Ceres-2 | Unknown Payload",
+      "net": "2026-11-04T21:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ceres-2",
+          "name": "Ceres-2"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
         }
       }
     },
@@ -130,6 +172,27 @@
       }
     },
     {
+      "id": "3cdb9dee-b5cb-406c-bbd1-06a219930fb7",
+      "name": "Falcon 9 Block 5 | Starlink Group 15-21",
+      "net": "2026-11-06T02:21:00Z",
+      "mission": {
+        "name": "Starlink Group 15-21"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
       "net": "2026-11-10T00:00:00Z",
@@ -147,6 +210,48 @@
         "location": {
           "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
           "country_code": "NZL"
+        }
+      }
+    },
+    {
+      "id": "6aa7b90b-e5ed-45d8-a52e-04fbf399d178",
+      "name": "Falcon 9 Block 5 | USSF-xxx (\"R-5\")",
+      "net": "2026-11-10T03:03:00Z",
+      "mission": {
+        "name": "USSF-xxx (\"R-5\")"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
+      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "net": "2026-11-13T00:00:00Z",
+      "mission": {
+        "name": "Amazon Leo (LV-01)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Vulcan VC6L",
+          "name": "Vulcan VC6L"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 41",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -277,27 +382,6 @@
       }
     },
     {
-      "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
-      "name": "Mir | Demo Flight",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Demo Flight"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Mir",
-          "name": "Mir"
-        }
-      },
-      "pad": {
-        "name": "ADD Offshore launch platform",
-        "location": {
-          "name": "Sea Launch",
-          "country_code": "???"
-        }
-      }
-    },
-    {
       "id": "b5a9bccb-30d7-4af6-8ad1-fabb563be53c",
       "name": "PSLV-XL | TDS-01",
       "net": "2026-11-30T00:00:00Z",
@@ -319,22 +403,22 @@
       }
     },
     {
-      "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
-      "name": "Vulcan VC6L | Amazon Leo (LV-01)",
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+      "name": "Starship | Flight 15",
       "net": "2026-11-30T00:00:00Z",
       "mission": {
-        "name": "Amazon Leo (LV-01)"
+        "name": "Flight 15"
       },
       "rocket": {
         "configuration": {
-          "full_name": "Vulcan VC6L",
-          "name": "Vulcan VC6L"
+          "full_name": "Starship V3",
+          "name": "Starship"
         }
       },
       "pad": {
-        "name": "Space Launch Complex 41",
+        "name": "Orbital Launch Pad 2",
         "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
+          "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
         }
       }
@@ -545,90 +629,6 @@
         "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "dca8749f-1552-485a-8061-f1ad79055b8d",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer C"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "a9ee8337-127d-4f17-9e3a-a07999f80099",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer D"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Transport Layer D"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
