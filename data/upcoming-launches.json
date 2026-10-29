@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:20:27.969Z",
+  "generated_at": "2026-10-29T21:54:43.519Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -319,9 +319,30 @@
       }
     },
     {
+      "id": "dff42a2e-f047-48d7-b260-3888d3a4fe33",
+      "name": "Spectrum | AT-Astra and Others (Spectrum Flight 3)",
+      "net": "2026-11-26T20:00:00Z",
+      "mission": {
+        "name": "AT-Astra and Others (Spectrum Flight 3)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
+        }
+      }
+    },
+    {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
-      "net": "2026-11-30T00:00:00Z",
+      "net": "2026-11-29T16:00:00Z",
       "mission": {
         "name": "Cygnus CRS-2 NG-25"
       },
@@ -503,27 +524,6 @@
         "name": "Space Launch Complex 4E",
         "location": {
           "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "ce1317de-ec94-4479-9b28-38ebf11f13ae",
-      "name": "Falcon 9 Block 5 | Telesat Lightspeed 1",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Telesat Lightspeed 1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Unknown Pad",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
         }
       }
