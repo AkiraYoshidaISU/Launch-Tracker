@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-30T14:43:41.145Z",
+  "generated_at": "2026-10-30T19:47:32.661Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "20d5676e-111b-40e3-8923-b218c3665ca2",
-      "name": "GSLV Mk II | IRNSS-1L (NVS-03)",
-      "net": "2026-10-30T18:21:00Z",
-      "mission": {
-        "name": "IRNSS-1L (NVS-03)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "GSLV Mk. II",
-          "name": "GSLV Mk II"
-        }
-      },
-      "pad": {
-        "name": "Satish Dhawan Space Centre Second Launch Pad",
-        "location": {
-          "name": "Satish Dhawan Space Centre, India",
-          "country_code": "IND"
-        }
-      }
-    },
     {
       "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
       "name": "Falcon 9 Block 5 | Starlink Group 15-18",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Satish Dhawan Space Centre, India",
           "country_code": "IND"
+        }
+      }
+    },
+    {
+      "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
+      "name": "New Glenn | Blue Ring-1",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Blue Ring-1"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "New Glenn",
+          "name": "New Glenn"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
         }
       }
     }
