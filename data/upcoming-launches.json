@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:28:28.664Z",
+  "generated_at": "2026-10-30T07:34:36.930Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
-      "net": "2026-11-02T08:45:00Z",
+      "net": "2026-11-02T16:00:00Z",
       "mission": {
         "name": "The Sea God Surveys (iQPS Launch 9)"
       },
