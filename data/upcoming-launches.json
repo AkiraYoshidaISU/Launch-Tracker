@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-10-31T02:35:52.409Z",
+  "generated_at": "2026-10-31T09:07:37.610Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "57ce0a39-d035-4f16-a418-bd6108f78199",
-      "name": "Falcon 9 Block 5 | Starlink Group 15-18",
-      "net": "2026-10-31T04:02:22Z",
-      "mission": {
-        "name": "Starlink Group 15-18"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
     {
       "id": "426bd2a5-02dd-4fbd-9f4d-2b8439c3a1ff",
       "name": "Electron | The Sea God Surveys (iQPS Launch 9)",
@@ -627,6 +606,27 @@
       },
       "pad": {
         "name": "Launch Complex 36A",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "11b218b1-5e40-4b9d-854e-50320299239d",
+      "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "BlueBird 14-16 (Block 2 #9-11)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
