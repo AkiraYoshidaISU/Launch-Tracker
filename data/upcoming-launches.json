@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T19:50:16.383Z",
+  "generated_at": "2026-11-01T23:15:23.651Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
       "name": "Falcon 9 Block 5 | USSF-432",
-      "net": "2026-11-03T01:42:00Z",
+      "net": "2026-11-04T01:28:00Z",
       "mission": {
         "name": "USSF-432"
       },
