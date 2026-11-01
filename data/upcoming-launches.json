@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T22:39:08.107Z",
+  "generated_at": "2026-11-01T01:43:31.238Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -550,27 +550,6 @@
       }
     },
     {
-      "id": "d3bd7fb2-fac6-49fc-ae52-cee07d2fde67",
-      "name": "Falcon Heavy | Griffin Mission One",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Griffin Mission One"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon Heavy",
-          "name": "Falcon Heavy"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 39A",
-        "location": {
-          "name": "Kennedy Space Center, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "0cf92611-82a8-4095-a0b4-dda2e74b1fff",
       "name": "LVM-3 | GSAT-32 (GSAT-N3)",
       "net": "2026-12-31T00:00:00Z",
@@ -627,6 +606,27 @@
       },
       "pad": {
         "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
