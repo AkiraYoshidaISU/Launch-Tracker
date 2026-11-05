@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-05T12:52:06.322Z",
+  "generated_at": "2026-11-05T20:25:16.644Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "711de6bc-f755-475b-a12f-ec5240da3a11",
-      "name": "Long March 2C | Unknown Payload",
-      "net": "2026-11-05T16:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2C",
-          "name": "Long March 2C"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 3 (LC-3/LA-1)",
-        "location": {
-          "name": "Xichang Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "e91d1da2-819b-4523-95bf-39ac7daa871d",
       "name": "Ceres-2 | Unknown Payload",
@@ -508,6 +487,48 @@
       }
     },
     {
+      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
+      "name": "Falcon 9 Block 5 | CHORUS",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "CHORUS"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "e61d353c-db55-4a57-8184-0fab187231e6",
+      "name": "Falcon 9 Block 5 | Globalstar 2-R Mission 2 (x 9)",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "Globalstar 2-R Mission 2 (x 9)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 40",
+        "location": {
+          "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
       "id": "71df1dd0-d658-4762-b0bc-0fca6886aea7",
       "name": "Falcon 9 Block 5 | SDA Tranche 2 Transport Layer D",
       "net": "2026-12-31T00:00:00Z",
@@ -571,27 +592,6 @@
       }
     },
     {
-      "id": "a5e81552-ecdd-4d89-b6bd-b594e22ca891",
-      "name": "New Glenn | Blue Ring-1",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "Blue Ring-1"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "New Glenn",
-          "name": "New Glenn"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 36A",
-        "location": {
-          "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "11b218b1-5e40-4b9d-854e-50320299239d",
       "name": "Falcon 9 Block 5 | BlueBird 14-16 (Block 2 #9-11)",
       "net": "2026-12-31T00:00:00Z",
@@ -613,11 +613,11 @@
       }
     },
     {
-      "id": "8bf5f61e-a7e1-41e6-aede-7b87e4beebab",
-      "name": "Falcon 9 Block 5 | CHORUS",
+      "id": "01ca3653-126a-4c01-94fb-a9467b39cdac",
+      "name": "Falcon 9 Block 5 | Inmarsat-7 F1 (GX-7)",
       "net": "2026-12-31T00:00:00Z",
       "mission": {
-        "name": "CHORUS"
+        "name": "Inmarsat-7 F1 (GX-7)"
       },
       "rocket": {
         "configuration": {
