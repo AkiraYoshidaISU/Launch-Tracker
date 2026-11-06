@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T01:00:16.502Z",
+  "generated_at": "2026-11-06T07:49:13.928Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -195,7 +195,7 @@
     {
       "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
       "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "net": "2026-11-14T00:00:00Z",
+      "net": "2026-11-14T05:30:00Z",
       "mission": {
         "name": "The Mountain God Rises (iQPS Launch 10)"
       },
