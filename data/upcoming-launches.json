@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:49:13.928Z",
+  "generated_at": "2026-11-06T15:30:04.815Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "54d471e8-695c-4fa7-a3cf-dbd8b389e8ae",
       "name": "Falcon 9 Block 5 | USSF-432",
-      "net": "2026-11-07T00:46:00Z",
+      "net": "2026-11-07T00:48:42Z",
       "mission": {
         "name": "USSF-432"
       },
@@ -90,7 +90,7 @@
     {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "Mir | Demo Flight",
-      "net": "2026-11-10T06:00:00Z",
+      "net": "2026-11-11T05:00:00Z",
       "mission": {
         "name": "Demo Flight"
       },
