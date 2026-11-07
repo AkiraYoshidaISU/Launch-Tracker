@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:40:23.854Z",
+  "generated_at": "2026-11-07T18:25:06.603Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -88,27 +88,6 @@
       }
     },
     {
-      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
-      "name": "Starship | Flight 15",
-      "net": "2026-11-13T00:00:00Z",
-      "mission": {
-        "name": "Flight 15"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Starship V3",
-          "name": "Starship"
-        }
-      },
-      "pad": {
-        "name": "Orbital Launch Pad 2",
-        "location": {
-          "name": "SpaceX Starbase, TX, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "name": "Falcon 9 Block 5 | USSF-317",
       "net": "2026-11-13T04:23:00Z",
@@ -146,6 +125,27 @@
         "name": "Space Launch Complex 41",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "0f867f0c-5422-4d44-93b8-d7faaae7019b",
+      "name": "Starship | Starlink Group 31-2 (Starship Flight 15)",
+      "net": "2026-11-13T22:45:00Z",
+      "mission": {
+        "name": "Starlink Group 31-2 (Starship Flight 15)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Starship V3",
+          "name": "Starship"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad 2",
+        "location": {
+          "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
         }
       }
