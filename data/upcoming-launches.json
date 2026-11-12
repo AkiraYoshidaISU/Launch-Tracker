@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-12T10:30:05.887Z",
+  "generated_at": "2026-11-12T18:31:19.858Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
-      "name": "Kuaizhou 11 | Unknown Payload",
-      "net": "2026-11-12T19:50:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kuaizhou 11",
-          "name": "Kuaizhou 11"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 95A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
@@ -63,6 +42,27 @@
         "location": {
           "name": "SpaceX Starbase, TX, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
+      "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
+      "net": "2026-11-14T00:50:00Z",
+      "mission": {
+        "name": "MKA Kinosputnik, KOEN and others"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Soyuz 2.1b Fregat-M",
+          "name": "Soyuz 2.1b/Fregat-M"
+        }
+      },
+      "pad": {
+        "name": "Cosmodrome Site 1S",
+        "location": {
+          "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
+          "country_code": "RUS"
         }
       }
     },
@@ -340,6 +340,27 @@
       }
     },
     {
+      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kuaizhou 11",
+          "name": "Kuaizhou 11"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
       "id": "dfac5ab7-7017-454f-b6cf-eeed277a97b5",
       "name": "LVM-3 | Gaganyaan-1",
       "net": "2026-11-30T00:00:00Z",
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "dca8749f-1552-485a-8061-f1ad79055b8d",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer C",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer C"
       },
       "rocket": {
         "configuration": {
