@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:42:44.447Z",
+  "generated_at": "2026-11-13T12:44:40.494Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -300,7 +300,7 @@
     {
       "id": "d74afbc7-0de5-491c-be05-4e9c31f736ac",
       "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-25",
-      "net": "2026-11-29T15:49:00Z",
+      "net": "2026-11-29T15:47:00Z",
       "mission": {
         "name": "Cygnus CRS-2 NG-25"
       },
