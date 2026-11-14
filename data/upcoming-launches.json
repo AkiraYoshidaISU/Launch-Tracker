@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-11-14T00:56:44.895Z",
+  "generated_at": "2026-11-14T07:18:48.120Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "bff2fc91-eddd-4dfc-af26-ac0674cfab4d",
-      "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
-      "net": "2026-11-14T01:16:00Z",
-      "mission": {
-        "name": "MKA Kinosputnik, KOEN and others"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b Fregat-M",
-          "name": "Soyuz 2.1b/Fregat-M"
-        }
-      },
-      "pad": {
-        "name": "Cosmodrome Site 1S",
-        "location": {
-          "name": "Vostochny Cosmodrome, Siberia, Russian Federation",
-          "country_code": "RUS"
-        }
-      }
-    },
-    {
-      "id": "db3500ac-965b-4ad8-b417-cb8d8d005586",
-      "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
-      "net": "2026-11-14T05:30:00Z",
-      "mission": {
-        "name": "The Mountain God Rises (iQPS Launch 10)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1A",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
@@ -294,6 +252,27 @@
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "2093e4fc-ac8c-4296-a1b5-deececee6a72",
+      "name": "Electron | StriX Launch 14",
+      "net": "2026-11-30T00:00:00Z",
+      "mission": {
+        "name": "StriX Launch 14"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     },
@@ -629,6 +608,27 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer A"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
