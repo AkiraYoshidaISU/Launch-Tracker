@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-15T10:13:30.091Z",
+  "generated_at": "2026-11-15T17:18:22.021Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "ef9850ad-1096-425b-9d27-f7bbd186e61a",
       "name": "Vulcan VC6L | Amazon Leo (LV-01)",
-      "net": "2026-11-15T17:11:30Z",
+      "net": "2026-11-15T17:31:00Z",
       "mission": {
         "name": "Amazon Leo (LV-01)"
       },
