@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:22:47.982Z",
+  "generated_at": "2026-11-17T19:57:13.428Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -27,7 +27,7 @@
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "name": "Falcon 9 Block 5 | USSF-317",
-      "net": "2026-11-19T03:00:00Z",
+      "net": "2026-11-20T02:46:00Z",
       "mission": {
         "name": "USSF-317"
       },
@@ -90,7 +90,7 @@
     {
       "id": "7bdc412b-c965-4517-a131-f57a01189803",
       "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-11-23T00:00:00Z",
+      "net": "2026-11-23T11:09:00Z",
       "mission": {
         "name": "Amazon Leo (LE-04)"
       },
