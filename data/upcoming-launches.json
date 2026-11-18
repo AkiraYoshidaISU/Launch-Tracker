@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:07:07.376Z",
+  "generated_at": "2026-11-18T10:26:41.917Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
@@ -48,7 +48,7 @@
     {
       "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
       "name": "Long March 8A | SatNet LEO Group TBD?",
-      "net": "2026-11-20T11:00:00Z",
+      "net": "2026-11-20T11:59:00Z",
       "mission": {
         "name": "SatNet LEO Group TBD?"
       },
@@ -62,6 +62,27 @@
         "name": "Commercial LC-1",
         "location": {
           "name": "Wenchang Space Launch Site, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "13270554-4bdb-42ae-916f-1bb54492204f",
+      "name": "Long March 6C | Unknown Payload",
+      "net": "2026-11-21T03:50:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 6C",
+          "name": "Long March 6C"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 9A",
+        "location": {
+          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -608,27 +629,6 @@
         "name": "Space Launch Complex 40",
         "location": {
           "name": "Cape Canaveral SFS, FL, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "2d0472b9-463d-49c8-afb1-7925e49a3368",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer A",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer A"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
         }
       }
