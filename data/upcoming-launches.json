@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-19T08:23:01.497Z",
+  "generated_at": "2026-11-19T17:30:02.971Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "name": "Falcon 9 Block 5 | USSF-317",
-      "net": "2026-11-20T04:28:55Z",
+      "net": "2026-11-20T04:32:55Z",
       "mission": {
         "name": "USSF-317"
       },
@@ -426,7 +426,7 @@
     {
       "id": "22e117bf-041c-49d5-9d09-7b180036e143",
       "name": "Ariane 62 | Metop-SG B1",
-      "net": "2026-12-31T00:00:00Z",
+      "net": "2026-12-17T00:00:00Z",
       "mission": {
         "name": "Metop-SG B1"
       },
