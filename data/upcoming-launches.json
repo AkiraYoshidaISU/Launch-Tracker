@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-20T05:05:12.821Z",
+  "generated_at": "2026-11-20T14:13:09.445Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a2975167-7c6f-4403-99e1-b40df17c8140",
-      "name": "Long March 8A | SatNet LEO Group TBD?",
-      "net": "2026-11-20T11:59:00Z",
-      "mission": {
-        "name": "SatNet LEO Group TBD?"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 8A",
-          "name": "Long March 8A"
-        }
-      },
-      "pad": {
-        "name": "Commercial LC-1",
-        "location": {
-          "name": "Wenchang Space Launch Site, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "76617033-4dc0-4448-b50c-e5b0d5a18539",
       "name": "Falcon 9 Block 5 | USSF-317",
@@ -153,7 +132,7 @@
     {
       "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
       "name": "Long March 2F/G | Shenzhou 24",
-      "net": "2026-11-25T00:00:00Z",
+      "net": "2026-11-25T00:18:00Z",
       "mission": {
         "name": "Shenzhou 24"
       },
@@ -167,6 +146,27 @@
         "name": "Launch Area 91 (SLS-1 / 921)",
         "location": {
           "name": "Jiuquan Satellite Launch Center, People's Republic of China",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
+      "name": "Long March 2D | Unknown Payload",
+      "net": "2026-11-26T09:35:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Long March 2D",
+          "name": "Long March 2D"
+        }
+      },
+      "pad": {
+        "name": "Launch Complex 3 (LC-3/LA-1)",
+        "location": {
+          "name": "Xichang Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -195,7 +195,7 @@
     {
       "id": "2093e4fc-ac8c-4296-a1b5-deececee6a72",
       "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
-      "net": "2026-11-27T00:00:00Z",
+      "net": "2026-11-27T00:05:00Z",
       "mission": {
         "name": "Night Owls Never Sleep (StriX Launch 14)"
       },
