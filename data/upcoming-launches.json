@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-23T04:58:53.985Z",
+  "generated_at": "2026-11-23T15:44:33.456Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-11-23T11:09:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-04)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "name": "Soyuz 2.1b | Progress MS-36 (97P)",
@@ -42,6 +21,27 @@
         "location": {
           "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
           "country_code": "KAZ"
+        }
+      }
+    },
+    {
+      "id": "7bdc412b-c965-4517-a131-f57a01189803",
+      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
+      "net": "2026-11-24T10:45:00Z",
+      "mission": {
+        "name": "Amazon Leo (LE-04)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Ariane 64 Block 2",
+          "name": "Ariane 64"
+        }
+      },
+      "pad": {
+        "name": "Ariane Launch Area 4",
+        "location": {
+          "name": "Guiana Space Centre, French Guiana",
+          "country_code": "GUF"
         }
       }
     },
@@ -151,27 +151,6 @@
       }
     },
     {
-      "id": "8b46d360-6b3b-423f-9036-d5568e485624",
-      "name": "Kinetica 1 | Unknown Payload",
-      "net": "2026-11-29T01:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kinetica 1",
-          "name": "Kinetica 1"
-        }
-      },
-      "pad": {
-        "name": "South China Sea (launch location 3)",
-        "location": {
-          "name": "Haiyang Oriental Spaceport",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "13270554-4bdb-42ae-916f-1bb54492204f",
       "name": "Long March 6C | Unknown Payload",
       "net": "2026-11-29T03:50:00Z",
@@ -273,6 +252,27 @@
         "location": {
           "name": "Sea Launch",
           "country_code": "???"
+        }
+      }
+    },
+    {
+      "id": "8b46d360-6b3b-423f-9036-d5568e485624",
+      "name": "Kinetica 1 | Unknown Payload",
+      "net": "2026-12-01T01:45:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kinetica 1",
+          "name": "Kinetica 1"
+        }
+      },
+      "pad": {
+        "name": "South China Sea (launch location 4)",
+        "location": {
+          "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
         }
       }
     },
