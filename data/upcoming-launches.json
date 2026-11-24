@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-23T15:44:33.456Z",
+  "generated_at": "2026-11-24T02:41:51.551Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
     {
       "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
       "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-      "net": "2026-11-24T10:13:00Z",
+      "net": "2026-11-24T10:17:00Z",
       "mission": {
         "name": "Progress MS-36 (97P)"
       },
@@ -48,7 +48,7 @@
     {
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
       "name": "Falcon 9 Block 5 | USSF-266",
-      "net": "2026-11-24T15:55:00Z",
+      "net": "2026-11-24T16:08:59Z",
       "mission": {
         "name": "USSF-266"
       },
@@ -273,6 +273,27 @@
         "location": {
           "name": "Haiyang Oriental Spaceport",
           "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "5591cfa3-6336-41ab-a37a-7c57aa28ab5f",
+      "name": "Falcon 9 Block 5 | NROL-132",
+      "net": "2026-12-02T20:30:00Z",
+      "mission": {
+        "name": "NROL-132"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
         }
       }
     },
@@ -597,27 +618,6 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer C"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Falcon 9 Block 5",
-          "name": "Falcon 9"
-        }
-      },
-      "pad": {
-        "name": "Space Launch Complex 4E",
-        "location": {
-          "name": "Vandenberg SFB, CA, USA",
-          "country_code": "USA"
-        }
-      }
-    },
-    {
-      "id": "a9ee8337-127d-4f17-9e3a-a07999f80099",
-      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D",
-      "net": "2026-12-31T00:00:00Z",
-      "mission": {
-        "name": "SDA Tranche 1 Tracking Layer D"
       },
       "rocket": {
         "configuration": {
