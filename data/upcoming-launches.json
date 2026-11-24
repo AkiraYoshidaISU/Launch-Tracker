@@ -1,50 +1,8 @@
 {
-  "generated_at": "2026-11-24T02:41:51.551Z",
+  "generated_at": "2026-11-24T13:07:50.486Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "8dd5de11-831b-445f-86f0-bffefe0550d9",
-      "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-      "net": "2026-11-24T10:17:00Z",
-      "mission": {
-        "name": "Progress MS-36 (97P)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Soyuz 2.1b",
-          "name": "Soyuz 2.1b"
-        }
-      },
-      "pad": {
-        "name": "31/6",
-        "location": {
-          "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
-          "country_code": "KAZ"
-        }
-      }
-    },
-    {
-      "id": "7bdc412b-c965-4517-a131-f57a01189803",
-      "name": "Ariane 64 Block 2 | Amazon Leo (LE-04)",
-      "net": "2026-11-24T10:45:00Z",
-      "mission": {
-        "name": "Amazon Leo (LE-04)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Ariane 64 Block 2",
-          "name": "Ariane 64"
-        }
-      },
-      "pad": {
-        "name": "Ariane Launch Area 4",
-        "location": {
-          "name": "Guiana Space Centre, French Guiana",
-          "country_code": "GUF"
-        }
-      }
-    },
     {
       "id": "460d9db7-eaf6-4cd9-b095-cff433534c09",
       "name": "Falcon 9 Block 5 | USSF-266",
@@ -214,27 +172,6 @@
       }
     },
     {
-      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
-      "name": "Kuaizhou 11 | Unknown Payload",
-      "net": "2026-11-30T00:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Kuaizhou 11",
-          "name": "Kuaizhou 11"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 95A",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
-    {
       "id": "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f",
       "name": "Mir | Demo Flight",
       "net": "2026-11-30T00:00:00Z",
@@ -272,6 +209,27 @@
         "name": "South China Sea (launch location 4)",
         "location": {
           "name": "Haiyang Oriental Spaceport",
+          "country_code": "CHN"
+        }
+      }
+    },
+    {
+      "id": "e2523821-9760-4cb4-ad1f-7ce2e30419bd",
+      "name": "Kuaizhou 11 | Unknown Payload",
+      "net": "2026-12-01T08:00:00Z",
+      "mission": {
+        "name": "Unknown Payload"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Kuaizhou 11",
+          "name": "Kuaizhou 11"
+        }
+      },
+      "pad": {
+        "name": "Launch Area 95A",
+        "location": {
+          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
           "country_code": "CHN"
         }
       }
@@ -618,6 +576,48 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "SDA Tranche 1 Tracking Layer C"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "a9ee8337-127d-4f17-9e3a-a07999f80099",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Tracking Layer D",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Tracking Layer D"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Falcon 9 Block 5",
+          "name": "Falcon 9"
+        }
+      },
+      "pad": {
+        "name": "Space Launch Complex 4E",
+        "location": {
+          "name": "Vandenberg SFB, CA, USA",
+          "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "4541ce85-0e38-42ac-a9a0-20474bb5f2cd",
+      "name": "Falcon 9 Block 5 | SDA Tranche 1 Transport Layer D",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "SDA Tranche 1 Transport Layer D"
       },
       "rocket": {
         "configuration": {
