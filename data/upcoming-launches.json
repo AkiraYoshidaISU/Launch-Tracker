@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-24T23:09:36.729Z",
+  "generated_at": "2026-11-25T05:32:51.089Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "c9605b67-8a53-4239-a8ae-577fe3b79799",
-      "name": "Long March 2F/G | Shenzhou 24",
-      "net": "2026-11-25T00:18:00Z",
-      "mission": {
-        "name": "Shenzhou 24"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 2F/G",
-          "name": "Long March 2F/G"
-        }
-      },
-      "pad": {
-        "name": "Launch Area 91 (SLS-1 / 921)",
-        "location": {
-          "name": "Jiuquan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "b00f0e9a-48d6-4f26-9cb5-7d19169ff7c4",
       "name": "Long March 2D | Unknown Payload",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Vandenberg SFB, CA, USA",
           "country_code": "USA"
+        }
+      }
+    },
+    {
+      "id": "60f4ba6c-4201-4727-94aa-0015a5a0023f",
+      "name": "Spectrum | 1 x Pelican satellite",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "1 x Pelican satellite"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
         }
       }
     }
