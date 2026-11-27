@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-26T19:11:05.741Z",
+  "generated_at": "2026-11-27T02:19:24.562Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "2093e4fc-ac8c-4296-a1b5-deececee6a72",
-      "name": "Electron | Night Owls Never Sleep (StriX Launch 14)",
-      "net": "2026-11-27T00:05:00Z",
-      "mission": {
-        "name": "Night Owls Never Sleep (StriX Launch 14)"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Electron",
-          "name": "Electron"
-        }
-      },
-      "pad": {
-        "name": "Rocket Lab Launch Complex 1B",
-        "location": {
-          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-          "country_code": "NZL"
-        }
-      }
-    },
     {
       "id": "a6421db3-7c8a-4cf7-a659-cec195140f7f",
       "name": "Long March 6A | Unknown Payload",
@@ -618,6 +597,27 @@
       "net": "2026-12-31T00:00:00Z",
       "mission": {
         "name": "AT-Astra and Others (Spectrum Flight 3)"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Spectrum",
+          "name": "Spectrum"
+        }
+      },
+      "pad": {
+        "name": "Orbital Launch Pad",
+        "location": {
+          "name": "Andøya Spaceport",
+          "country_code": "NOR"
+        }
+      }
+    },
+    {
+      "id": "b48e32c5-3776-4684-a956-5ea4df032e90",
+      "name": "Spectrum | ΣYNDEO-3",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "ΣYNDEO-3"
       },
       "rocket": {
         "configuration": {
