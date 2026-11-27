@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-11-27T11:06:23.393Z",
+  "generated_at": "2026-11-27T20:06:36.277Z",
   "source": "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=30&hide_recent_previous=true",
   "result_count": 30,
   "results": [
-    {
-      "id": "a6421db3-7c8a-4cf7-a659-cec195140f7f",
-      "name": "Long March 6A | Unknown Payload",
-      "net": "2026-11-27T13:00:00Z",
-      "mission": {
-        "name": "Unknown Payload"
-      },
-      "rocket": {
-        "configuration": {
-          "full_name": "Long March 6A",
-          "name": "Long March 6A"
-        }
-      },
-      "pad": {
-        "name": "Launch Complex 9A",
-        "location": {
-          "name": "Taiyuan Satellite Launch Center, People's Republic of China",
-          "country_code": "CHN"
-        }
-      }
-    },
     {
       "id": "13270554-4bdb-42ae-916f-1bb54492204f",
       "name": "Long March 6C | Unknown Payload",
@@ -630,6 +609,27 @@
         "location": {
           "name": "Esrange Space Center",
           "country_code": "SWE"
+        }
+      }
+    },
+    {
+      "id": "f9a8c9f6-5dc4-4e83-9876-2a51140ec806",
+      "name": "Electron | iQPS Launch 11",
+      "net": "2026-12-31T00:00:00Z",
+      "mission": {
+        "name": "iQPS Launch 11"
+      },
+      "rocket": {
+        "configuration": {
+          "full_name": "Electron",
+          "name": "Electron"
+        }
+      },
+      "pad": {
+        "name": "Unknown Pad",
+        "location": {
+          "name": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+          "country_code": "NZL"
         }
       }
     }
